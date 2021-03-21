@@ -1,496 +1,1470 @@
 fileFormatVersion: 2
 guid: ddde73af06620e34195fa97ea058f5ee
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: 3DS - Dragon Ball Z Extreme Butoden - Raditz_0
-    21300002: 3DS - Dragon Ball Z Extreme Butoden - Raditz_1
-    21300004: 3DS - Dragon Ball Z Extreme Butoden - Raditz_2
-    21300006: 3DS - Dragon Ball Z Extreme Butoden - Raditz_3
-    21300008: 3DS - Dragon Ball Z Extreme Butoden - Raditz_4
-    21300010: 3DS - Dragon Ball Z Extreme Butoden - Raditz_5
-    21300012: 3DS - Dragon Ball Z Extreme Butoden - Raditz_6
-    21300014: 3DS - Dragon Ball Z Extreme Butoden - Raditz_7
-    21300016: 3DS - Dragon Ball Z Extreme Butoden - Raditz_8
-    21300018: 3DS - Dragon Ball Z Extreme Butoden - Raditz_10
-    21300020: 3DS - Dragon Ball Z Extreme Butoden - Raditz_11
-    21300022: 3DS - Dragon Ball Z Extreme Butoden - Raditz_12
-    21300024: 3DS - Dragon Ball Z Extreme Butoden - Raditz_13
-    21300026: 3DS - Dragon Ball Z Extreme Butoden - Raditz_14
-    21300028: 3DS - Dragon Ball Z Extreme Butoden - Raditz_15
-    21300030: 3DS - Dragon Ball Z Extreme Butoden - Raditz_16
-    21300032: 3DS - Dragon Ball Z Extreme Butoden - Raditz_17
-    21300034: 3DS - Dragon Ball Z Extreme Butoden - Raditz_18
-    21300036: 3DS - Dragon Ball Z Extreme Butoden - Raditz_19
-    21300038: 3DS - Dragon Ball Z Extreme Butoden - Raditz_20
-    21300040: 3DS - Dragon Ball Z Extreme Butoden - Raditz_21
-    21300042: 3DS - Dragon Ball Z Extreme Butoden - Raditz_22
-    21300044: 3DS - Dragon Ball Z Extreme Butoden - Raditz_23
-    21300046: 3DS - Dragon Ball Z Extreme Butoden - Raditz_24
-    21300048: 3DS - Dragon Ball Z Extreme Butoden - Raditz_25
-    21300050: 3DS - Dragon Ball Z Extreme Butoden - Raditz_26
-    21300052: 3DS - Dragon Ball Z Extreme Butoden - Raditz_27
-    21300054: 3DS - Dragon Ball Z Extreme Butoden - Raditz_28
-    21300056: 3DS - Dragon Ball Z Extreme Butoden - Raditz_29
-    21300058: 3DS - Dragon Ball Z Extreme Butoden - Raditz_30
-    21300060: 3DS - Dragon Ball Z Extreme Butoden - Raditz_31
-    21300062: 3DS - Dragon Ball Z Extreme Butoden - Raditz_32
-    21300064: 3DS - Dragon Ball Z Extreme Butoden - Raditz_33
-    21300066: 3DS - Dragon Ball Z Extreme Butoden - Raditz_34
-    21300068: 3DS - Dragon Ball Z Extreme Butoden - Raditz_35
-    21300070: 3DS - Dragon Ball Z Extreme Butoden - Raditz_36
-    21300072: 3DS - Dragon Ball Z Extreme Butoden - Raditz_37
-    21300074: 3DS - Dragon Ball Z Extreme Butoden - Raditz_38
-    21300076: 3DS - Dragon Ball Z Extreme Butoden - Raditz_39
-    21300078: 3DS - Dragon Ball Z Extreme Butoden - Raditz_40
-    21300080: 3DS - Dragon Ball Z Extreme Butoden - Raditz_41
-    21300082: 3DS - Dragon Ball Z Extreme Butoden - Raditz_42
-    21300084: 3DS - Dragon Ball Z Extreme Butoden - Raditz_43
-    21300086: 3DS - Dragon Ball Z Extreme Butoden - Raditz_44
-    21300088: 3DS - Dragon Ball Z Extreme Butoden - Raditz_45
-    21300090: 3DS - Dragon Ball Z Extreme Butoden - Raditz_46
-    21300092: 3DS - Dragon Ball Z Extreme Butoden - Raditz_47
-    21300094: 3DS - Dragon Ball Z Extreme Butoden - Raditz_48
-    21300096: 3DS - Dragon Ball Z Extreme Butoden - Raditz_49
-    21300098: 3DS - Dragon Ball Z Extreme Butoden - Raditz_50
-    21300100: 3DS - Dragon Ball Z Extreme Butoden - Raditz_51
-    21300102: 3DS - Dragon Ball Z Extreme Butoden - Raditz_52
-    21300104: 3DS - Dragon Ball Z Extreme Butoden - Raditz_53
-    21300106: 3DS - Dragon Ball Z Extreme Butoden - Raditz_54
-    21300108: 3DS - Dragon Ball Z Extreme Butoden - Raditz_55
-    21300110: 3DS - Dragon Ball Z Extreme Butoden - Raditz_56
-    21300112: 3DS - Dragon Ball Z Extreme Butoden - Raditz_57
-    21300114: 3DS - Dragon Ball Z Extreme Butoden - Raditz_58
-    21300116: 3DS - Dragon Ball Z Extreme Butoden - Raditz_59
-    21300118: 3DS - Dragon Ball Z Extreme Butoden - Raditz_60
-    21300120: 3DS - Dragon Ball Z Extreme Butoden - Raditz_61
-    21300122: 3DS - Dragon Ball Z Extreme Butoden - Raditz_62
-    21300124: 3DS - Dragon Ball Z Extreme Butoden - Raditz_63
-    21300126: 3DS - Dragon Ball Z Extreme Butoden - Raditz_64
-    21300128: 3DS - Dragon Ball Z Extreme Butoden - Raditz_65
-    21300130: 3DS - Dragon Ball Z Extreme Butoden - Raditz_66
-    21300132: 3DS - Dragon Ball Z Extreme Butoden - Raditz_67
-    21300134: 3DS - Dragon Ball Z Extreme Butoden - Raditz_68
-    21300136: 3DS - Dragon Ball Z Extreme Butoden - Raditz_69
-    21300138: 3DS - Dragon Ball Z Extreme Butoden - Raditz_70
-    21300140: 3DS - Dragon Ball Z Extreme Butoden - Raditz_71
-    21300142: 3DS - Dragon Ball Z Extreme Butoden - Raditz_72
-    21300144: 3DS - Dragon Ball Z Extreme Butoden - Raditz_73
-    21300146: 3DS - Dragon Ball Z Extreme Butoden - Raditz_74
-    21300148: 3DS - Dragon Ball Z Extreme Butoden - Raditz_75
-    21300150: 3DS - Dragon Ball Z Extreme Butoden - Raditz_76
-    21300152: 3DS - Dragon Ball Z Extreme Butoden - Raditz_77
-    21300154: 3DS - Dragon Ball Z Extreme Butoden - Raditz_78
-    21300156: 3DS - Dragon Ball Z Extreme Butoden - Raditz_79
-    21300158: 3DS - Dragon Ball Z Extreme Butoden - Raditz_80
-    21300160: 3DS - Dragon Ball Z Extreme Butoden - Raditz_81
-    21300162: 3DS - Dragon Ball Z Extreme Butoden - Raditz_82
-    21300164: 3DS - Dragon Ball Z Extreme Butoden - Raditz_83
-    21300166: 3DS - Dragon Ball Z Extreme Butoden - Raditz_84
-    21300168: 3DS - Dragon Ball Z Extreme Butoden - Raditz_85
-    21300170: 3DS - Dragon Ball Z Extreme Butoden - Raditz_86
-    21300172: 3DS - Dragon Ball Z Extreme Butoden - Raditz_87
-    21300174: 3DS - Dragon Ball Z Extreme Butoden - Raditz_88
-    21300176: 3DS - Dragon Ball Z Extreme Butoden - Raditz_89
-    21300178: 3DS - Dragon Ball Z Extreme Butoden - Raditz_90
-    21300180: 3DS - Dragon Ball Z Extreme Butoden - Raditz_91
-    21300182: 3DS - Dragon Ball Z Extreme Butoden - Raditz_92
-    21300184: 3DS - Dragon Ball Z Extreme Butoden - Raditz_93
-    21300186: 3DS - Dragon Ball Z Extreme Butoden - Raditz_94
-    21300188: 3DS - Dragon Ball Z Extreme Butoden - Raditz_95
-    21300190: 3DS - Dragon Ball Z Extreme Butoden - Raditz_96
-    21300192: 3DS - Dragon Ball Z Extreme Butoden - Raditz_97
-    21300194: 3DS - Dragon Ball Z Extreme Butoden - Raditz_98
-    21300196: 3DS - Dragon Ball Z Extreme Butoden - Raditz_99
-    21300198: 3DS - Dragon Ball Z Extreme Butoden - Raditz_100
-    21300200: 3DS - Dragon Ball Z Extreme Butoden - Raditz_101
-    21300202: 3DS - Dragon Ball Z Extreme Butoden - Raditz_102
-    21300204: 3DS - Dragon Ball Z Extreme Butoden - Raditz_103
-    21300206: 3DS - Dragon Ball Z Extreme Butoden - Raditz_104
-    21300208: 3DS - Dragon Ball Z Extreme Butoden - Raditz_105
-    21300210: 3DS - Dragon Ball Z Extreme Butoden - Raditz_106
-    21300212: 3DS - Dragon Ball Z Extreme Butoden - Raditz_107
-    21300214: 3DS - Dragon Ball Z Extreme Butoden - Raditz_108
-    21300216: 3DS - Dragon Ball Z Extreme Butoden - Raditz_109
-    21300218: 3DS - Dragon Ball Z Extreme Butoden - Raditz_110
-    21300220: 3DS - Dragon Ball Z Extreme Butoden - Raditz_111
-    21300222: 3DS - Dragon Ball Z Extreme Butoden - Raditz_112
-    21300224: 3DS - Dragon Ball Z Extreme Butoden - Raditz_113
-    21300226: 3DS - Dragon Ball Z Extreme Butoden - Raditz_114
-    21300228: 3DS - Dragon Ball Z Extreme Butoden - Raditz_115
-    21300230: 3DS - Dragon Ball Z Extreme Butoden - Raditz_116
-    21300232: 3DS - Dragon Ball Z Extreme Butoden - Raditz_117
-    21300234: 3DS - Dragon Ball Z Extreme Butoden - Raditz_118
-    21300236: 3DS - Dragon Ball Z Extreme Butoden - Raditz_119
-    21300238: 3DS - Dragon Ball Z Extreme Butoden - Raditz_120
-    21300240: 3DS - Dragon Ball Z Extreme Butoden - Raditz_121
-    21300242: 3DS - Dragon Ball Z Extreme Butoden - Raditz_122
-    21300244: 3DS - Dragon Ball Z Extreme Butoden - Raditz_123
-    21300246: 3DS - Dragon Ball Z Extreme Butoden - Raditz_124
-    21300248: 3DS - Dragon Ball Z Extreme Butoden - Raditz_125
-    21300250: 3DS - Dragon Ball Z Extreme Butoden - Raditz_126
-    21300252: 3DS - Dragon Ball Z Extreme Butoden - Raditz_127
-    21300254: 3DS - Dragon Ball Z Extreme Butoden - Raditz_128
-    21300256: 3DS - Dragon Ball Z Extreme Butoden - Raditz_129
-    21300258: 3DS - Dragon Ball Z Extreme Butoden - Raditz_130
-    21300260: 3DS - Dragon Ball Z Extreme Butoden - Raditz_131
-    21300262: 3DS - Dragon Ball Z Extreme Butoden - Raditz_132
-    21300264: 3DS - Dragon Ball Z Extreme Butoden - Raditz_133
-    21300266: 3DS - Dragon Ball Z Extreme Butoden - Raditz_134
-    21300268: 3DS - Dragon Ball Z Extreme Butoden - Raditz_135
-    21300270: 3DS - Dragon Ball Z Extreme Butoden - Raditz_136
-    21300272: 3DS - Dragon Ball Z Extreme Butoden - Raditz_137
-    21300274: 3DS - Dragon Ball Z Extreme Butoden - Raditz_138
-    21300276: 3DS - Dragon Ball Z Extreme Butoden - Raditz_139
-    21300278: 3DS - Dragon Ball Z Extreme Butoden - Raditz_140
-    21300280: 3DS - Dragon Ball Z Extreme Butoden - Raditz_141
-    21300282: 3DS - Dragon Ball Z Extreme Butoden - Raditz_142
-    21300284: 3DS - Dragon Ball Z Extreme Butoden - Raditz_143
-    21300286: 3DS - Dragon Ball Z Extreme Butoden - Raditz_144
-    21300288: 3DS - Dragon Ball Z Extreme Butoden - Raditz_145
-    21300290: 3DS - Dragon Ball Z Extreme Butoden - Raditz_146
-    21300292: 3DS - Dragon Ball Z Extreme Butoden - Raditz_147
-    21300294: 3DS - Dragon Ball Z Extreme Butoden - Raditz_148
-    21300296: 3DS - Dragon Ball Z Extreme Butoden - Raditz_149
-    21300298: 3DS - Dragon Ball Z Extreme Butoden - Raditz_150
-    21300300: 3DS - Dragon Ball Z Extreme Butoden - Raditz_151
-    21300302: 3DS - Dragon Ball Z Extreme Butoden - Raditz_152
-    21300304: 3DS - Dragon Ball Z Extreme Butoden - Raditz_153
-    21300306: 3DS - Dragon Ball Z Extreme Butoden - Raditz_154
-    21300308: 3DS - Dragon Ball Z Extreme Butoden - Raditz_155
-    21300310: 3DS - Dragon Ball Z Extreme Butoden - Raditz_156
-    21300312: 3DS - Dragon Ball Z Extreme Butoden - Raditz_157
-    21300314: 3DS - Dragon Ball Z Extreme Butoden - Raditz_158
-    21300316: 3DS - Dragon Ball Z Extreme Butoden - Raditz_159
-    21300318: 3DS - Dragon Ball Z Extreme Butoden - Raditz_160
-    21300320: 3DS - Dragon Ball Z Extreme Butoden - Raditz_161
-    21300322: 3DS - Dragon Ball Z Extreme Butoden - Raditz_162
-    21300324: 3DS - Dragon Ball Z Extreme Butoden - Raditz_163
-    21300326: 3DS - Dragon Ball Z Extreme Butoden - Raditz_164
-    21300328: 3DS - Dragon Ball Z Extreme Butoden - Raditz_165
-    21300330: 3DS - Dragon Ball Z Extreme Butoden - Raditz_166
-    21300332: 3DS - Dragon Ball Z Extreme Butoden - Raditz_167
-    21300334: 3DS - Dragon Ball Z Extreme Butoden - Raditz_168
-    21300336: 3DS - Dragon Ball Z Extreme Butoden - Raditz_169
-    21300338: 3DS - Dragon Ball Z Extreme Butoden - Raditz_170
-    21300340: 3DS - Dragon Ball Z Extreme Butoden - Raditz_171
-    21300342: 3DS - Dragon Ball Z Extreme Butoden - Raditz_172
-    21300344: 3DS - Dragon Ball Z Extreme Butoden - Raditz_173
-    21300346: 3DS - Dragon Ball Z Extreme Butoden - Raditz_174
-    21300348: 3DS - Dragon Ball Z Extreme Butoden - Raditz_175
-    21300350: 3DS - Dragon Ball Z Extreme Butoden - Raditz_176
-    21300352: 3DS - Dragon Ball Z Extreme Butoden - Raditz_177
-    21300354: 3DS - Dragon Ball Z Extreme Butoden - Raditz_178
-    21300356: 3DS - Dragon Ball Z Extreme Butoden - Raditz_179
-    21300358: 3DS - Dragon Ball Z Extreme Butoden - Raditz_180
-    21300360: 3DS - Dragon Ball Z Extreme Butoden - Raditz_181
-    21300362: 3DS - Dragon Ball Z Extreme Butoden - Raditz_182
-    21300364: 3DS - Dragon Ball Z Extreme Butoden - Raditz_183
-    21300366: 3DS - Dragon Ball Z Extreme Butoden - Raditz_184
-    21300368: 3DS - Dragon Ball Z Extreme Butoden - Raditz_185
-    21300370: 3DS - Dragon Ball Z Extreme Butoden - Raditz_186
-    21300372: 3DS - Dragon Ball Z Extreme Butoden - Raditz_187
-    21300374: 3DS - Dragon Ball Z Extreme Butoden - Raditz_188
-    21300376: 3DS - Dragon Ball Z Extreme Butoden - Raditz_189
-    21300378: 3DS - Dragon Ball Z Extreme Butoden - Raditz_190
-    21300380: 3DS - Dragon Ball Z Extreme Butoden - Raditz_191
-    21300382: 3DS - Dragon Ball Z Extreme Butoden - Raditz_192
-    21300384: 3DS - Dragon Ball Z Extreme Butoden - Raditz_193
-    21300386: 3DS - Dragon Ball Z Extreme Butoden - Raditz_194
-    21300388: 3DS - Dragon Ball Z Extreme Butoden - Raditz_195
-    21300390: 3DS - Dragon Ball Z Extreme Butoden - Raditz_196
-    21300392: 3DS - Dragon Ball Z Extreme Butoden - Raditz_197
-    21300394: 3DS - Dragon Ball Z Extreme Butoden - Raditz_198
-    21300396: 3DS - Dragon Ball Z Extreme Butoden - Raditz_199
-    21300398: 3DS - Dragon Ball Z Extreme Butoden - Raditz_200
-    21300400: 3DS - Dragon Ball Z Extreme Butoden - Raditz_201
-    21300402: 3DS - Dragon Ball Z Extreme Butoden - Raditz_202
-    21300404: 3DS - Dragon Ball Z Extreme Butoden - Raditz_203
-    21300406: 3DS - Dragon Ball Z Extreme Butoden - Raditz_204
-    21300408: 3DS - Dragon Ball Z Extreme Butoden - Raditz_205
-    21300410: 3DS - Dragon Ball Z Extreme Butoden - Raditz_206
-    21300412: 3DS - Dragon Ball Z Extreme Butoden - Raditz_207
-    21300414: 3DS - Dragon Ball Z Extreme Butoden - Raditz_208
-    21300416: 3DS - Dragon Ball Z Extreme Butoden - Raditz_209
-    21300418: 3DS - Dragon Ball Z Extreme Butoden - Raditz_210
-    21300420: 3DS - Dragon Ball Z Extreme Butoden - Raditz_211
-    21300422: 3DS - Dragon Ball Z Extreme Butoden - Raditz_212
-    21300424: 3DS - Dragon Ball Z Extreme Butoden - Raditz_213
-    21300426: 3DS - Dragon Ball Z Extreme Butoden - Raditz_214
-    21300428: 3DS - Dragon Ball Z Extreme Butoden - Raditz_215
-    21300430: 3DS - Dragon Ball Z Extreme Butoden - Raditz_216
-    21300432: 3DS - Dragon Ball Z Extreme Butoden - Raditz_217
-    21300434: 3DS - Dragon Ball Z Extreme Butoden - Raditz_218
-    21300436: 3DS - Dragon Ball Z Extreme Butoden - Raditz_219
-    21300438: 3DS - Dragon Ball Z Extreme Butoden - Raditz_220
-    21300440: 3DS - Dragon Ball Z Extreme Butoden - Raditz_222
-    21300442: 3DS - Dragon Ball Z Extreme Butoden - Raditz_223
-    21300444: 3DS - Dragon Ball Z Extreme Butoden - Raditz_224
-    21300446: 3DS - Dragon Ball Z Extreme Butoden - Raditz_225
-    21300448: 3DS - Dragon Ball Z Extreme Butoden - Raditz_226
-    21300450: 3DS - Dragon Ball Z Extreme Butoden - Raditz_227
-    21300452: 3DS - Dragon Ball Z Extreme Butoden - Raditz_228
-    21300454: 3DS - Dragon Ball Z Extreme Butoden - Raditz_229
-    21300456: 3DS - Dragon Ball Z Extreme Butoden - Raditz_230
-    21300458: 3DS - Dragon Ball Z Extreme Butoden - Raditz_231
-    21300460: 3DS - Dragon Ball Z Extreme Butoden - Raditz_232
-    21300462: 3DS - Dragon Ball Z Extreme Butoden - Raditz_233
-    21300464: 3DS - Dragon Ball Z Extreme Butoden - Raditz_234
-    21300466: 3DS - Dragon Ball Z Extreme Butoden - Raditz_235
-    21300468: 3DS - Dragon Ball Z Extreme Butoden - Raditz_236
-    21300470: 3DS - Dragon Ball Z Extreme Butoden - Raditz_237
-    21300472: 3DS - Dragon Ball Z Extreme Butoden - Raditz_9
-    21300474: 3DS - Dragon Ball Z Extreme Butoden - Raditz_221
-    21300476: 3DS - Dragon Ball Z Extreme Butoden - Raditz_238
-    21300478: Radits_0
-    21300480: Radits_1
-    21300482: Radits_2
-    21300484: Radits_3
-    21300486: Radits_4
-    21300488: Radits_5
-    21300490: Radits_6
-    21300492: Radits_7
-    21300494: Radits_8
-    21300496: Radits_10
-    21300498: Radits_11
-    21300500: Radits_12
-    21300502: Radits_13
-    21300504: Radits_14
-    21300506: Radits_15
-    21300508: Radits_16
-    21300510: Radits_17
-    21300512: Radits_18
-    21300514: Radits_19
-    21300516: Radits_20
-    21300518: Radits_21
-    21300520: Radits_22
-    21300522: Radits_23
-    21300524: Radits_25
-    21300526: Radits_26
-    21300528: Radits_27
-    21300530: Radits_28
-    21300532: Radits_29
-    21300534: Radits_30
-    21300536: Radits_31
-    21300538: Radits_32
-    21300540: Radits_33
-    21300542: Radits_34
-    21300544: Radits_35
-    21300546: Radits_36
-    21300548: Radits_37
-    21300550: Radits_38
-    21300552: Radits_39
-    21300554: Radits_40
-    21300556: Radits_41
-    21300558: Radits_42
-    21300560: Radits_43
-    21300562: Radits_44
-    21300564: Radits_45
-    21300566: Radits_46
-    21300568: Radits_47
-    21300570: Radits_48
-    21300572: Radits_49
-    21300574: Radits_50
-    21300576: Radits_51
-    21300578: Radits_52
-    21300580: Radits_53
-    21300582: Radits_54
-    21300584: Radits_55
-    21300586: Radits_56
-    21300588: Radits_57
-    21300590: Radits_58
-    21300592: Radits_59
-    21300594: Radits_60
-    21300596: Radits_61
-    21300598: Radits_62
-    21300600: Radits_63
-    21300602: Radits_64
-    21300604: Radits_65
-    21300606: Radits_66
-    21300608: Radits_67
-    21300610: Radits_68
-    21300612: Radits_69
-    21300614: Radits_70
-    21300616: Radits_71
-    21300618: Radits_72
-    21300620: Radits_73
-    21300622: Radits_74
-    21300624: Radits_75
-    21300626: Radits_76
-    21300628: Radits_77
-    21300630: Radits_78
-    21300632: Radits_79
-    21300634: Radits_80
-    21300636: Radits_81
-    21300638: Radits_82
-    21300640: Radits_83
-    21300642: Radits_84
-    21300644: Radits_85
-    21300646: Radits_86
-    21300648: Radits_87
-    21300650: Radits_88
-    21300652: Radits_89
-    21300654: Radits_90
-    21300656: Radits_91
-    21300658: Radits_92
-    21300660: Radits_93
-    21300662: Radits_94
-    21300664: Radits_95
-    21300666: Radits_96
-    21300668: Radits_97
-    21300670: Radits_98
-    21300672: Radits_99
-    21300674: Radits_100
-    21300676: Radits_101
-    21300678: Radits_102
-    21300680: Radits_103
-    21300682: Radits_104
-    21300684: Radits_105
-    21300686: Radits_106
-    21300688: Radits_107
-    21300690: Radits_108
-    21300692: Radits_109
-    21300694: Radits_110
-    21300696: Radits_111
-    21300698: Radits_112
-    21300700: Radits_113
-    21300702: Radits_114
-    21300704: Radits_115
-    21300706: Radits_116
-    21300708: Radits_117
-    21300710: Radits_118
-    21300712: Radits_119
-    21300714: Radits_120
-    21300716: Radits_121
-    21300718: Radits_122
-    21300720: Radits_123
-    21300722: Radits_124
-    21300724: Radits_125
-    21300726: Radits_126
-    21300728: Radits_127
-    21300730: Radits_128
-    21300732: Radits_129
-    21300734: Radits_130
-    21300736: Radits_131
-    21300738: Radits_132
-    21300740: Radits_133
-    21300742: Radits_134
-    21300744: Radits_135
-    21300746: Radits_136
-    21300748: Radits_137
-    21300750: Radits_138
-    21300752: Radits_139
-    21300754: Radits_140
-    21300756: Radits_141
-    21300758: Radits_142
-    21300760: Radits_143
-    21300762: Radits_144
-    21300764: Radits_145
-    21300766: Radits_146
-    21300768: Radits_147
-    21300770: Radits_148
-    21300772: Radits_149
-    21300774: Radits_150
-    21300776: Radits_151
-    21300778: Radits_152
-    21300780: Radits_153
-    21300782: Radits_154
-    21300784: Radits_155
-    21300786: Radits_156
-    21300788: Radits_157
-    21300790: Radits_158
-    21300792: Radits_159
-    21300794: Radits_160
-    21300796: Radits_161
-    21300798: Radits_162
-    21300800: Radits_163
-    21300802: Radits_164
-    21300804: Radits_165
-    21300806: Radits_166
-    21300808: Radits_167
-    21300810: Radits_168
-    21300812: Radits_169
-    21300814: Radits_170
-    21300816: Radits_171
-    21300818: Radits_172
-    21300820: Radits_173
-    21300822: Radits_174
-    21300824: Radits_175
-    21300826: Radits_176
-    21300828: Radits_177
-    21300830: Radits_178
-    21300832: Radits_179
-    21300834: Radits_180
-    21300836: Radits_181
-    21300838: Radits_182
-    21300840: Radits_183
-    21300842: Radits_184
-    21300844: Radits_185
-    21300846: Radits_186
-    21300848: Radits_187
-    21300850: Radits_188
-    21300852: Radits_189
-    21300854: Radits_190
-    21300856: Radits_191
-    21300858: Radits_192
-    21300860: Radits_193
-    21300862: Radits_194
-    21300864: Radits_195
-    21300866: Radits_196
-    21300868: Radits_197
-    21300870: Radits_198
-    21300872: Radits_199
-    21300874: Radits_200
-    21300876: Radits_201
-    21300878: Radits_202
-    21300880: Radits_203
-    21300882: Radits_204
-    21300884: Radits_205
-    21300886: Radits_206
-    21300888: Radits_207
-    21300890: Radits_208
-    21300892: Radits_209
-    21300894: Radits_210
-    21300896: Radits_211
-    21300898: Radits_212
-    21300900: Radits_213
-    21300902: Radits_214
-    21300904: Radits_215
-    21300906: Radits_216
-    21300908: Radits_217
-    21300910: Radits_218
-    21300912: Radits_219
-    21300914: Radits_220
-    21300916: Radits_222
-    21300918: Radits_223
-    21300920: Radits_224
-    21300922: Radits_225
-    21300924: Radits_226
-    21300926: Radits_227
-    21300928: Radits_228
-    21300930: Radits_229
-    21300932: Radits_230
-    21300934: Radits_231
-    21300936: Radits_232
-    21300938: Radits_233
-    21300940: Radits_234
-    21300942: Radits_235
-    21300944: Radits_236
-    21300946: Radits_237
-    21300948: Radits_238
-    21300950: Radits_9
-    21300952: Radits_24
-    21300954: Radits_239
-    21300956: Radits_240
-    21300958: Radits_241
-    21300960: Radits_242
-    21300962: Radits_221
-    21300964: Radits_243
-    21300966: Radits_244
-    21300968: Radits_245
-    21300970: Radits_246
-    21300972: Radits_247
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_0
+  - first:
+      213: 21300002
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_1
+  - first:
+      213: 21300004
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_2
+  - first:
+      213: 21300006
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_3
+  - first:
+      213: 21300008
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_4
+  - first:
+      213: 21300010
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_5
+  - first:
+      213: 21300012
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_6
+  - first:
+      213: 21300014
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_7
+  - first:
+      213: 21300016
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_8
+  - first:
+      213: 21300018
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_10
+  - first:
+      213: 21300020
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_11
+  - first:
+      213: 21300022
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_12
+  - first:
+      213: 21300024
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_13
+  - first:
+      213: 21300026
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_14
+  - first:
+      213: 21300028
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_15
+  - first:
+      213: 21300030
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_16
+  - first:
+      213: 21300032
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_17
+  - first:
+      213: 21300034
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_18
+  - first:
+      213: 21300036
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_19
+  - first:
+      213: 21300038
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_20
+  - first:
+      213: 21300040
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_21
+  - first:
+      213: 21300042
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_22
+  - first:
+      213: 21300044
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_23
+  - first:
+      213: 21300046
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_24
+  - first:
+      213: 21300048
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_25
+  - first:
+      213: 21300050
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_26
+  - first:
+      213: 21300052
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_27
+  - first:
+      213: 21300054
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_28
+  - first:
+      213: 21300056
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_29
+  - first:
+      213: 21300058
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_30
+  - first:
+      213: 21300060
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_31
+  - first:
+      213: 21300062
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_32
+  - first:
+      213: 21300064
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_33
+  - first:
+      213: 21300066
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_34
+  - first:
+      213: 21300068
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_35
+  - first:
+      213: 21300070
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_36
+  - first:
+      213: 21300072
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_37
+  - first:
+      213: 21300074
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_38
+  - first:
+      213: 21300076
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_39
+  - first:
+      213: 21300078
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_40
+  - first:
+      213: 21300080
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_41
+  - first:
+      213: 21300082
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_42
+  - first:
+      213: 21300084
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_43
+  - first:
+      213: 21300086
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_44
+  - first:
+      213: 21300088
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_45
+  - first:
+      213: 21300090
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_46
+  - first:
+      213: 21300092
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_47
+  - first:
+      213: 21300094
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_48
+  - first:
+      213: 21300096
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_49
+  - first:
+      213: 21300098
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_50
+  - first:
+      213: 21300100
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_51
+  - first:
+      213: 21300102
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_52
+  - first:
+      213: 21300104
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_53
+  - first:
+      213: 21300106
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_54
+  - first:
+      213: 21300108
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_55
+  - first:
+      213: 21300110
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_56
+  - first:
+      213: 21300112
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_57
+  - first:
+      213: 21300114
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_58
+  - first:
+      213: 21300116
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_59
+  - first:
+      213: 21300118
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_60
+  - first:
+      213: 21300120
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_61
+  - first:
+      213: 21300122
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_62
+  - first:
+      213: 21300124
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_63
+  - first:
+      213: 21300126
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_64
+  - first:
+      213: 21300128
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_65
+  - first:
+      213: 21300130
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_66
+  - first:
+      213: 21300132
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_67
+  - first:
+      213: 21300134
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_68
+  - first:
+      213: 21300136
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_69
+  - first:
+      213: 21300138
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_70
+  - first:
+      213: 21300140
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_71
+  - first:
+      213: 21300142
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_72
+  - first:
+      213: 21300144
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_73
+  - first:
+      213: 21300146
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_74
+  - first:
+      213: 21300148
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_75
+  - first:
+      213: 21300150
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_76
+  - first:
+      213: 21300152
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_77
+  - first:
+      213: 21300154
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_78
+  - first:
+      213: 21300156
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_79
+  - first:
+      213: 21300158
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_80
+  - first:
+      213: 21300160
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_81
+  - first:
+      213: 21300162
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_82
+  - first:
+      213: 21300164
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_83
+  - first:
+      213: 21300166
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_84
+  - first:
+      213: 21300168
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_85
+  - first:
+      213: 21300170
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_86
+  - first:
+      213: 21300172
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_87
+  - first:
+      213: 21300174
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_88
+  - first:
+      213: 21300176
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_89
+  - first:
+      213: 21300178
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_90
+  - first:
+      213: 21300180
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_91
+  - first:
+      213: 21300182
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_92
+  - first:
+      213: 21300184
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_93
+  - first:
+      213: 21300186
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_94
+  - first:
+      213: 21300188
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_95
+  - first:
+      213: 21300190
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_96
+  - first:
+      213: 21300192
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_97
+  - first:
+      213: 21300194
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_98
+  - first:
+      213: 21300196
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_99
+  - first:
+      213: 21300198
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_100
+  - first:
+      213: 21300200
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_101
+  - first:
+      213: 21300202
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_102
+  - first:
+      213: 21300204
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_103
+  - first:
+      213: 21300206
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_104
+  - first:
+      213: 21300208
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_105
+  - first:
+      213: 21300210
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_106
+  - first:
+      213: 21300212
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_107
+  - first:
+      213: 21300214
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_108
+  - first:
+      213: 21300216
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_109
+  - first:
+      213: 21300218
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_110
+  - first:
+      213: 21300220
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_111
+  - first:
+      213: 21300222
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_112
+  - first:
+      213: 21300224
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_113
+  - first:
+      213: 21300226
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_114
+  - first:
+      213: 21300228
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_115
+  - first:
+      213: 21300230
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_116
+  - first:
+      213: 21300232
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_117
+  - first:
+      213: 21300234
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_118
+  - first:
+      213: 21300236
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_119
+  - first:
+      213: 21300238
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_120
+  - first:
+      213: 21300240
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_121
+  - first:
+      213: 21300242
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_122
+  - first:
+      213: 21300244
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_123
+  - first:
+      213: 21300246
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_124
+  - first:
+      213: 21300248
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_125
+  - first:
+      213: 21300250
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_126
+  - first:
+      213: 21300252
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_127
+  - first:
+      213: 21300254
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_128
+  - first:
+      213: 21300256
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_129
+  - first:
+      213: 21300258
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_130
+  - first:
+      213: 21300260
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_131
+  - first:
+      213: 21300262
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_132
+  - first:
+      213: 21300264
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_133
+  - first:
+      213: 21300266
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_134
+  - first:
+      213: 21300268
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_135
+  - first:
+      213: 21300270
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_136
+  - first:
+      213: 21300272
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_137
+  - first:
+      213: 21300274
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_138
+  - first:
+      213: 21300276
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_139
+  - first:
+      213: 21300278
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_140
+  - first:
+      213: 21300280
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_141
+  - first:
+      213: 21300282
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_142
+  - first:
+      213: 21300284
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_143
+  - first:
+      213: 21300286
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_144
+  - first:
+      213: 21300288
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_145
+  - first:
+      213: 21300290
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_146
+  - first:
+      213: 21300292
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_147
+  - first:
+      213: 21300294
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_148
+  - first:
+      213: 21300296
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_149
+  - first:
+      213: 21300298
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_150
+  - first:
+      213: 21300300
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_151
+  - first:
+      213: 21300302
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_152
+  - first:
+      213: 21300304
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_153
+  - first:
+      213: 21300306
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_154
+  - first:
+      213: 21300308
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_155
+  - first:
+      213: 21300310
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_156
+  - first:
+      213: 21300312
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_157
+  - first:
+      213: 21300314
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_158
+  - first:
+      213: 21300316
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_159
+  - first:
+      213: 21300318
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_160
+  - first:
+      213: 21300320
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_161
+  - first:
+      213: 21300322
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_162
+  - first:
+      213: 21300324
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_163
+  - first:
+      213: 21300326
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_164
+  - first:
+      213: 21300328
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_165
+  - first:
+      213: 21300330
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_166
+  - first:
+      213: 21300332
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_167
+  - first:
+      213: 21300334
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_168
+  - first:
+      213: 21300336
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_169
+  - first:
+      213: 21300338
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_170
+  - first:
+      213: 21300340
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_171
+  - first:
+      213: 21300342
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_172
+  - first:
+      213: 21300344
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_173
+  - first:
+      213: 21300346
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_174
+  - first:
+      213: 21300348
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_175
+  - first:
+      213: 21300350
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_176
+  - first:
+      213: 21300352
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_177
+  - first:
+      213: 21300354
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_178
+  - first:
+      213: 21300356
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_179
+  - first:
+      213: 21300358
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_180
+  - first:
+      213: 21300360
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_181
+  - first:
+      213: 21300362
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_182
+  - first:
+      213: 21300364
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_183
+  - first:
+      213: 21300366
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_184
+  - first:
+      213: 21300368
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_185
+  - first:
+      213: 21300370
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_186
+  - first:
+      213: 21300372
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_187
+  - first:
+      213: 21300374
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_188
+  - first:
+      213: 21300376
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_189
+  - first:
+      213: 21300378
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_190
+  - first:
+      213: 21300380
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_191
+  - first:
+      213: 21300382
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_192
+  - first:
+      213: 21300384
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_193
+  - first:
+      213: 21300386
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_194
+  - first:
+      213: 21300388
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_195
+  - first:
+      213: 21300390
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_196
+  - first:
+      213: 21300392
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_197
+  - first:
+      213: 21300394
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_198
+  - first:
+      213: 21300396
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_199
+  - first:
+      213: 21300398
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_200
+  - first:
+      213: 21300400
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_201
+  - first:
+      213: 21300402
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_202
+  - first:
+      213: 21300404
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_203
+  - first:
+      213: 21300406
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_204
+  - first:
+      213: 21300408
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_205
+  - first:
+      213: 21300410
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_206
+  - first:
+      213: 21300412
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_207
+  - first:
+      213: 21300414
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_208
+  - first:
+      213: 21300416
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_209
+  - first:
+      213: 21300418
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_210
+  - first:
+      213: 21300420
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_211
+  - first:
+      213: 21300422
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_212
+  - first:
+      213: 21300424
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_213
+  - first:
+      213: 21300426
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_214
+  - first:
+      213: 21300428
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_215
+  - first:
+      213: 21300430
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_216
+  - first:
+      213: 21300432
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_217
+  - first:
+      213: 21300434
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_218
+  - first:
+      213: 21300436
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_219
+  - first:
+      213: 21300438
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_220
+  - first:
+      213: 21300440
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_222
+  - first:
+      213: 21300442
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_223
+  - first:
+      213: 21300444
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_224
+  - first:
+      213: 21300446
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_225
+  - first:
+      213: 21300448
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_226
+  - first:
+      213: 21300450
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_227
+  - first:
+      213: 21300452
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_228
+  - first:
+      213: 21300454
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_229
+  - first:
+      213: 21300456
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_230
+  - first:
+      213: 21300458
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_231
+  - first:
+      213: 21300460
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_232
+  - first:
+      213: 21300462
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_233
+  - first:
+      213: 21300464
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_234
+  - first:
+      213: 21300466
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_235
+  - first:
+      213: 21300468
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_236
+  - first:
+      213: 21300470
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_237
+  - first:
+      213: 21300472
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_9
+  - first:
+      213: 21300474
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_221
+  - first:
+      213: 21300476
+    second: 3DS - Dragon Ball Z Extreme Butoden - Raditz_238
+  - first:
+      213: 21300478
+    second: Radits_0
+  - first:
+      213: 21300480
+    second: Radits_1
+  - first:
+      213: 21300482
+    second: Radits_2
+  - first:
+      213: 21300484
+    second: Radits_3
+  - first:
+      213: 21300486
+    second: Radits_4
+  - first:
+      213: 21300488
+    second: Radits_5
+  - first:
+      213: 21300490
+    second: Radits_6
+  - first:
+      213: 21300492
+    second: Radits_7
+  - first:
+      213: 21300494
+    second: Radits_8
+  - first:
+      213: 21300496
+    second: Radits_10
+  - first:
+      213: 21300498
+    second: Radits_11
+  - first:
+      213: 21300500
+    second: Radits_12
+  - first:
+      213: 21300502
+    second: Radits_13
+  - first:
+      213: 21300504
+    second: Radits_14
+  - first:
+      213: 21300506
+    second: Radits_15
+  - first:
+      213: 21300508
+    second: Radits_16
+  - first:
+      213: 21300510
+    second: Radits_17
+  - first:
+      213: 21300512
+    second: Radits_18
+  - first:
+      213: 21300514
+    second: Radits_19
+  - first:
+      213: 21300516
+    second: Radits_20
+  - first:
+      213: 21300518
+    second: Radits_21
+  - first:
+      213: 21300520
+    second: Radits_22
+  - first:
+      213: 21300522
+    second: Radits_23
+  - first:
+      213: 21300524
+    second: Radits_25
+  - first:
+      213: 21300526
+    second: Radits_26
+  - first:
+      213: 21300528
+    second: Radits_27
+  - first:
+      213: 21300530
+    second: Radits_28
+  - first:
+      213: 21300532
+    second: Radits_29
+  - first:
+      213: 21300534
+    second: Radits_30
+  - first:
+      213: 21300536
+    second: Radits_31
+  - first:
+      213: 21300538
+    second: Radits_32
+  - first:
+      213: 21300540
+    second: Radits_33
+  - first:
+      213: 21300542
+    second: Radits_34
+  - first:
+      213: 21300544
+    second: Radits_35
+  - first:
+      213: 21300546
+    second: Radits_36
+  - first:
+      213: 21300548
+    second: Radits_37
+  - first:
+      213: 21300550
+    second: Radits_38
+  - first:
+      213: 21300552
+    second: Radits_39
+  - first:
+      213: 21300554
+    second: Radits_40
+  - first:
+      213: 21300556
+    second: Radits_41
+  - first:
+      213: 21300558
+    second: Radits_42
+  - first:
+      213: 21300560
+    second: Radits_43
+  - first:
+      213: 21300562
+    second: Radits_44
+  - first:
+      213: 21300564
+    second: Radits_45
+  - first:
+      213: 21300566
+    second: Radits_46
+  - first:
+      213: 21300568
+    second: Radits_47
+  - first:
+      213: 21300570
+    second: Radits_48
+  - first:
+      213: 21300572
+    second: Radits_49
+  - first:
+      213: 21300574
+    second: Radits_50
+  - first:
+      213: 21300576
+    second: Radits_51
+  - first:
+      213: 21300578
+    second: Radits_52
+  - first:
+      213: 21300580
+    second: Radits_53
+  - first:
+      213: 21300582
+    second: Radits_54
+  - first:
+      213: 21300584
+    second: Radits_55
+  - first:
+      213: 21300586
+    second: Radits_56
+  - first:
+      213: 21300588
+    second: Radits_57
+  - first:
+      213: 21300590
+    second: Radits_58
+  - first:
+      213: 21300592
+    second: Radits_59
+  - first:
+      213: 21300594
+    second: Radits_60
+  - first:
+      213: 21300596
+    second: Radits_61
+  - first:
+      213: 21300598
+    second: Radits_62
+  - first:
+      213: 21300600
+    second: Radits_63
+  - first:
+      213: 21300602
+    second: Radits_64
+  - first:
+      213: 21300604
+    second: Radits_65
+  - first:
+      213: 21300606
+    second: Radits_66
+  - first:
+      213: 21300608
+    second: Radits_67
+  - first:
+      213: 21300610
+    second: Radits_68
+  - first:
+      213: 21300612
+    second: Radits_69
+  - first:
+      213: 21300614
+    second: Radits_70
+  - first:
+      213: 21300616
+    second: Radits_71
+  - first:
+      213: 21300618
+    second: Radits_72
+  - first:
+      213: 21300620
+    second: Radits_73
+  - first:
+      213: 21300622
+    second: Radits_74
+  - first:
+      213: 21300624
+    second: Radits_75
+  - first:
+      213: 21300626
+    second: Radits_76
+  - first:
+      213: 21300628
+    second: Radits_77
+  - first:
+      213: 21300630
+    second: Radits_78
+  - first:
+      213: 21300632
+    second: Radits_79
+  - first:
+      213: 21300634
+    second: Radits_80
+  - first:
+      213: 21300636
+    second: Radits_81
+  - first:
+      213: 21300638
+    second: Radits_82
+  - first:
+      213: 21300640
+    second: Radits_83
+  - first:
+      213: 21300642
+    second: Radits_84
+  - first:
+      213: 21300644
+    second: Radits_85
+  - first:
+      213: 21300646
+    second: Radits_86
+  - first:
+      213: 21300648
+    second: Radits_87
+  - first:
+      213: 21300650
+    second: Radits_88
+  - first:
+      213: 21300652
+    second: Radits_89
+  - first:
+      213: 21300654
+    second: Radits_90
+  - first:
+      213: 21300656
+    second: Radits_91
+  - first:
+      213: 21300658
+    second: Radits_92
+  - first:
+      213: 21300660
+    second: Radits_93
+  - first:
+      213: 21300662
+    second: Radits_94
+  - first:
+      213: 21300664
+    second: Radits_95
+  - first:
+      213: 21300666
+    second: Radits_96
+  - first:
+      213: 21300668
+    second: Radits_97
+  - first:
+      213: 21300670
+    second: Radits_98
+  - first:
+      213: 21300672
+    second: Radits_99
+  - first:
+      213: 21300674
+    second: Radits_100
+  - first:
+      213: 21300676
+    second: Radits_101
+  - first:
+      213: 21300678
+    second: Radits_102
+  - first:
+      213: 21300680
+    second: Radits_103
+  - first:
+      213: 21300682
+    second: Radits_104
+  - first:
+      213: 21300684
+    second: Radits_105
+  - first:
+      213: 21300686
+    second: Radits_106
+  - first:
+      213: 21300688
+    second: Radits_107
+  - first:
+      213: 21300690
+    second: Radits_108
+  - first:
+      213: 21300692
+    second: Radits_109
+  - first:
+      213: 21300694
+    second: Radits_110
+  - first:
+      213: 21300696
+    second: Radits_111
+  - first:
+      213: 21300698
+    second: Radits_112
+  - first:
+      213: 21300700
+    second: Radits_113
+  - first:
+      213: 21300702
+    second: Radits_114
+  - first:
+      213: 21300704
+    second: Radits_115
+  - first:
+      213: 21300706
+    second: Radits_116
+  - first:
+      213: 21300708
+    second: Radits_117
+  - first:
+      213: 21300710
+    second: Radits_118
+  - first:
+      213: 21300712
+    second: Radits_119
+  - first:
+      213: 21300714
+    second: Radits_120
+  - first:
+      213: 21300716
+    second: Radits_121
+  - first:
+      213: 21300718
+    second: Radits_122
+  - first:
+      213: 21300720
+    second: Radits_123
+  - first:
+      213: 21300722
+    second: Radits_124
+  - first:
+      213: 21300724
+    second: Radits_125
+  - first:
+      213: 21300726
+    second: Radits_126
+  - first:
+      213: 21300728
+    second: Radits_127
+  - first:
+      213: 21300730
+    second: Radits_128
+  - first:
+      213: 21300732
+    second: Radits_129
+  - first:
+      213: 21300734
+    second: Radits_130
+  - first:
+      213: 21300736
+    second: Radits_131
+  - first:
+      213: 21300738
+    second: Radits_132
+  - first:
+      213: 21300740
+    second: Radits_133
+  - first:
+      213: 21300742
+    second: Radits_134
+  - first:
+      213: 21300744
+    second: Radits_135
+  - first:
+      213: 21300746
+    second: Radits_136
+  - first:
+      213: 21300748
+    second: Radits_137
+  - first:
+      213: 21300750
+    second: Radits_138
+  - first:
+      213: 21300752
+    second: Radits_139
+  - first:
+      213: 21300754
+    second: Radits_140
+  - first:
+      213: 21300756
+    second: Radits_141
+  - first:
+      213: 21300758
+    second: Radits_142
+  - first:
+      213: 21300760
+    second: Radits_143
+  - first:
+      213: 21300762
+    second: Radits_144
+  - first:
+      213: 21300764
+    second: Radits_145
+  - first:
+      213: 21300766
+    second: Radits_146
+  - first:
+      213: 21300768
+    second: Radits_147
+  - first:
+      213: 21300770
+    second: Radits_148
+  - first:
+      213: 21300772
+    second: Radits_149
+  - first:
+      213: 21300774
+    second: Radits_150
+  - first:
+      213: 21300776
+    second: Radits_151
+  - first:
+      213: 21300778
+    second: Radits_152
+  - first:
+      213: 21300780
+    second: Radits_153
+  - first:
+      213: 21300782
+    second: Radits_154
+  - first:
+      213: 21300784
+    second: Radits_155
+  - first:
+      213: 21300786
+    second: Radits_156
+  - first:
+      213: 21300788
+    second: Radits_157
+  - first:
+      213: 21300790
+    second: Radits_158
+  - first:
+      213: 21300792
+    second: Radits_159
+  - first:
+      213: 21300794
+    second: Radits_160
+  - first:
+      213: 21300796
+    second: Radits_161
+  - first:
+      213: 21300798
+    second: Radits_162
+  - first:
+      213: 21300800
+    second: Radits_163
+  - first:
+      213: 21300802
+    second: Radits_164
+  - first:
+      213: 21300804
+    second: Radits_165
+  - first:
+      213: 21300806
+    second: Radits_166
+  - first:
+      213: 21300808
+    second: Radits_167
+  - first:
+      213: 21300810
+    second: Radits_168
+  - first:
+      213: 21300812
+    second: Radits_169
+  - first:
+      213: 21300814
+    second: Radits_170
+  - first:
+      213: 21300816
+    second: Radits_171
+  - first:
+      213: 21300818
+    second: Radits_172
+  - first:
+      213: 21300820
+    second: Radits_173
+  - first:
+      213: 21300822
+    second: Radits_174
+  - first:
+      213: 21300824
+    second: Radits_175
+  - first:
+      213: 21300826
+    second: Radits_176
+  - first:
+      213: 21300828
+    second: Radits_177
+  - first:
+      213: 21300830
+    second: Radits_178
+  - first:
+      213: 21300832
+    second: Radits_179
+  - first:
+      213: 21300834
+    second: Radits_180
+  - first:
+      213: 21300836
+    second: Radits_181
+  - first:
+      213: 21300838
+    second: Radits_182
+  - first:
+      213: 21300840
+    second: Radits_183
+  - first:
+      213: 21300842
+    second: Radits_184
+  - first:
+      213: 21300844
+    second: Radits_185
+  - first:
+      213: 21300846
+    second: Radits_186
+  - first:
+      213: 21300848
+    second: Radits_187
+  - first:
+      213: 21300850
+    second: Radits_188
+  - first:
+      213: 21300852
+    second: Radits_189
+  - first:
+      213: 21300854
+    second: Radits_190
+  - first:
+      213: 21300856
+    second: Radits_191
+  - first:
+      213: 21300858
+    second: Radits_192
+  - first:
+      213: 21300860
+    second: Radits_193
+  - first:
+      213: 21300862
+    second: Radits_194
+  - first:
+      213: 21300864
+    second: Radits_195
+  - first:
+      213: 21300866
+    second: Radits_196
+  - first:
+      213: 21300868
+    second: Radits_197
+  - first:
+      213: 21300870
+    second: Radits_198
+  - first:
+      213: 21300872
+    second: Radits_199
+  - first:
+      213: 21300874
+    second: Radits_200
+  - first:
+      213: 21300876
+    second: Radits_201
+  - first:
+      213: 21300878
+    second: Radits_202
+  - first:
+      213: 21300880
+    second: Radits_203
+  - first:
+      213: 21300882
+    second: Radits_204
+  - first:
+      213: 21300884
+    second: Radits_205
+  - first:
+      213: 21300886
+    second: Radits_206
+  - first:
+      213: 21300888
+    second: Radits_207
+  - first:
+      213: 21300890
+    second: Radits_208
+  - first:
+      213: 21300892
+    second: Radits_209
+  - first:
+      213: 21300894
+    second: Radits_210
+  - first:
+      213: 21300896
+    second: Radits_211
+  - first:
+      213: 21300898
+    second: Radits_212
+  - first:
+      213: 21300900
+    second: Radits_213
+  - first:
+      213: 21300902
+    second: Radits_214
+  - first:
+      213: 21300904
+    second: Radits_215
+  - first:
+      213: 21300906
+    second: Radits_216
+  - first:
+      213: 21300908
+    second: Radits_217
+  - first:
+      213: 21300910
+    second: Radits_218
+  - first:
+      213: 21300912
+    second: Radits_219
+  - first:
+      213: 21300914
+    second: Radits_220
+  - first:
+      213: 21300916
+    second: Radits_222
+  - first:
+      213: 21300918
+    second: Radits_223
+  - first:
+      213: 21300920
+    second: Radits_224
+  - first:
+      213: 21300922
+    second: Radits_225
+  - first:
+      213: 21300924
+    second: Radits_226
+  - first:
+      213: 21300926
+    second: Radits_227
+  - first:
+      213: 21300928
+    second: Radits_228
+  - first:
+      213: 21300930
+    second: Radits_229
+  - first:
+      213: 21300932
+    second: Radits_230
+  - first:
+      213: 21300934
+    second: Radits_231
+  - first:
+      213: 21300936
+    second: Radits_232
+  - first:
+      213: 21300938
+    second: Radits_233
+  - first:
+      213: 21300940
+    second: Radits_234
+  - first:
+      213: 21300942
+    second: Radits_235
+  - first:
+      213: 21300944
+    second: Radits_236
+  - first:
+      213: 21300946
+    second: Radits_237
+  - first:
+      213: 21300948
+    second: Radits_238
+  - first:
+      213: 21300950
+    second: Radits_9
+  - first:
+      213: 21300952
+    second: Radits_24
+  - first:
+      213: 21300954
+    second: Radits_239
+  - first:
+      213: 21300956
+    second: Radits_240
+  - first:
+      213: 21300958
+    second: Radits_241
+  - first:
+      213: 21300960
+    second: Radits_242
+  - first:
+      213: 21300962
+    second: Radits_221
+  - first:
+      213: 21300964
+    second: Radits_243
+  - first:
+      213: 21300966
+    second: Radits_244
+  - first:
+      213: 21300968
+    second: Radits_245
+  - first:
+      213: 21300970
+    second: Radits_246
+  - first:
+      213: 21300972
+    second: Radits_247
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -544,8 +1518,9 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -556,7 +1531,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -567,7 +1543,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -578,7 +1555,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -589,6 +1567,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -608,6 +1587,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a0fa419c4a762374cbd33e0839981fbc
+      internalID: 21300478
       vertices: []
       indices: 
       edges: []
@@ -628,6 +1608,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: da735089057db3a46888100529f17433
+      internalID: 21300480
       vertices: []
       indices: 
       edges: []
@@ -648,6 +1629,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 646270e50b468944b995ab8bf7cb8401
+      internalID: 21300482
       vertices: []
       indices: 
       edges: []
@@ -668,6 +1650,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 19d125d9410893a4cb83fea65d308172
+      internalID: 21300484
       vertices: []
       indices: 
       edges: []
@@ -688,6 +1671,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2c06e4cfe2cc07647851f1d11f4bcc42
+      internalID: 21300486
       vertices: []
       indices: 
       edges: []
@@ -708,6 +1692,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1ff311a0500d0d449ad8540e6ad1e70e
+      internalID: 21300488
       vertices: []
       indices: 
       edges: []
@@ -728,6 +1713,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 75bbb594ece52704b80f6d1f61c7709c
+      internalID: 21300490
       vertices: []
       indices: 
       edges: []
@@ -748,6 +1734,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3983aa14b17e3ea4692232d319025b58
+      internalID: 21300492
       vertices: []
       indices: 
       edges: []
@@ -768,6 +1755,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 42b1e51378d6da64482f3dcd68aec709
+      internalID: 21300494
       vertices: []
       indices: 
       edges: []
@@ -788,6 +1776,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6f6cde57af25abb4794170c3ffc63f53
+      internalID: 21300496
       vertices: []
       indices: 
       edges: []
@@ -808,6 +1797,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 073513aad5bbdf545b6b242cd68fbccb
+      internalID: 21300498
       vertices: []
       indices: 
       edges: []
@@ -828,6 +1818,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e30b4541c2527e45b3f8caabe628e3a
+      internalID: 21300500
       vertices: []
       indices: 
       edges: []
@@ -848,6 +1839,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: efeeb08ef7d958a4faaf9d9a122f6fb7
+      internalID: 21300502
       vertices: []
       indices: 
       edges: []
@@ -868,6 +1860,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6640fc8c1da1c414f857e244d204a263
+      internalID: 21300504
       vertices: []
       indices: 
       edges: []
@@ -888,6 +1881,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0d7f58fcf81bf834a91d3ee7c34109c2
+      internalID: 21300506
       vertices: []
       indices: 
       edges: []
@@ -908,6 +1902,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 56f7469f0dca0a2488e1347ea88d26c9
+      internalID: 21300508
       vertices: []
       indices: 
       edges: []
@@ -928,6 +1923,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 233443376668ef64388a27ee2f07686e
+      internalID: 21300510
       vertices: []
       indices: 
       edges: []
@@ -948,6 +1944,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 83b1d1c617d03a94c93829c17a0fc475
+      internalID: 21300512
       vertices: []
       indices: 
       edges: []
@@ -968,6 +1965,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: db5eec095f0e42346a7747958061d8f3
+      internalID: 21300514
       vertices: []
       indices: 
       edges: []
@@ -988,6 +1986,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b68a10f8ed9d85f42936f21b9eadd8e1
+      internalID: 21300516
       vertices: []
       indices: 
       edges: []
@@ -1008,6 +2007,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dc407c0d1e43ab94a81598e008c485ce
+      internalID: 21300518
       vertices: []
       indices: 
       edges: []
@@ -1028,6 +2028,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 68b759dacb7e6964b84472b1e34131ae
+      internalID: 21300520
       vertices: []
       indices: 
       edges: []
@@ -1048,6 +2049,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 99202bcb59860c94cb186d4f4f192940
+      internalID: 21300522
       vertices: []
       indices: 
       edges: []
@@ -1068,6 +2070,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b0bf1faa251b34a4f8d4cd638229db44
+      internalID: 21300524
       vertices: []
       indices: 
       edges: []
@@ -1088,6 +2091,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6518ee139c0463b40a71f60eec564173
+      internalID: 21300526
       vertices: []
       indices: 
       edges: []
@@ -1108,6 +2112,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c57c5fa3509705746a0dc0aa6b6a807b
+      internalID: 21300528
       vertices: []
       indices: 
       edges: []
@@ -1128,6 +2133,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3dce2aeb4216250419fb09d95d5ef001
+      internalID: 21300530
       vertices: []
       indices: 
       edges: []
@@ -1148,6 +2154,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ce33d9b80132c1345bd58a04850741c3
+      internalID: 21300532
       vertices: []
       indices: 
       edges: []
@@ -1168,6 +2175,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5c861214418edd64e91090c220234d2b
+      internalID: 21300534
       vertices: []
       indices: 
       edges: []
@@ -1188,6 +2196,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 69e77b7855f1af348bec129cd141dd15
+      internalID: 21300536
       vertices: []
       indices: 
       edges: []
@@ -1208,6 +2217,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6ccc6774a2eaa4e40897f8a2345750ab
+      internalID: 21300538
       vertices: []
       indices: 
       edges: []
@@ -1228,6 +2238,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 16805d6e75ddd7a4685174df801fe0d5
+      internalID: 21300540
       vertices: []
       indices: 
       edges: []
@@ -1248,6 +2259,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b1ff30b60bd11af46bcca2af0219133c
+      internalID: 21300542
       vertices: []
       indices: 
       edges: []
@@ -1268,6 +2280,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 666c26cbf811f314b9da077d5c1a6c6b
+      internalID: 21300544
       vertices: []
       indices: 
       edges: []
@@ -1288,6 +2301,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b329161888a8dd24e9c69eafb80b0469
+      internalID: 21300546
       vertices: []
       indices: 
       edges: []
@@ -1308,6 +2322,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c7202de9da2d4a84ba553c5e7d6dc5cb
+      internalID: 21300548
       vertices: []
       indices: 
       edges: []
@@ -1328,6 +2343,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b4fd632b8028c87498199c80bef20260
+      internalID: 21300550
       vertices: []
       indices: 
       edges: []
@@ -1348,6 +2364,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9e7663c680ed95b4a8035aba68a112d4
+      internalID: 21300552
       vertices: []
       indices: 
       edges: []
@@ -1368,6 +2385,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 55ec71ce8dc043340bcf049a8cc79a10
+      internalID: 21300554
       vertices: []
       indices: 
       edges: []
@@ -1388,6 +2406,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1ba745d13ed753741ad697c324095c50
+      internalID: 21300556
       vertices: []
       indices: 
       edges: []
@@ -1408,6 +2427,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6ec19052f44f2254ab2def08a9a3f0c2
+      internalID: 21300558
       vertices: []
       indices: 
       edges: []
@@ -1428,6 +2448,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c4c63a2f378d0814f8a95458d08fdb94
+      internalID: 21300560
       vertices: []
       indices: 
       edges: []
@@ -1448,6 +2469,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 806ed9dfbc519184db39e201b5c6d192
+      internalID: 21300562
       vertices: []
       indices: 
       edges: []
@@ -1468,6 +2490,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 86d5951b1108109488b94baa5d4c390a
+      internalID: 21300564
       vertices: []
       indices: 
       edges: []
@@ -1488,6 +2511,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0eae9dc55d16dc345a2e0362e80cc61d
+      internalID: 21300566
       vertices: []
       indices: 
       edges: []
@@ -1508,6 +2532,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d3805bd0edba4c349a41506dcf44d70d
+      internalID: 21300568
       vertices: []
       indices: 
       edges: []
@@ -1528,6 +2553,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d90b6dbb695e9d24a814a0b955c62fb7
+      internalID: 21300570
       vertices: []
       indices: 
       edges: []
@@ -1548,6 +2574,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 76f2b4b2fd0aa1344bf8b465a5989500
+      internalID: 21300572
       vertices: []
       indices: 
       edges: []
@@ -1568,6 +2595,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd972e7650a4ca946afde7e14b1329cb
+      internalID: 21300574
       vertices: []
       indices: 
       edges: []
@@ -1588,6 +2616,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 588a0210c84f8404a924710984d4d0c8
+      internalID: 21300576
       vertices: []
       indices: 
       edges: []
@@ -1608,6 +2637,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 039e8f711d751ae4b9603cc83395ef69
+      internalID: 21300578
       vertices: []
       indices: 
       edges: []
@@ -1628,6 +2658,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 89e51727b178fa743a6b545a38298700
+      internalID: 21300580
       vertices: []
       indices: 
       edges: []
@@ -1648,6 +2679,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: af691caa3f8e3c344bc302584233329d
+      internalID: 21300582
       vertices: []
       indices: 
       edges: []
@@ -1668,6 +2700,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d202673afcd676042a9948bf0d3488e9
+      internalID: 21300584
       vertices: []
       indices: 
       edges: []
@@ -1688,6 +2721,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eb91b789c15c6364391f3e87cc740ff2
+      internalID: 21300586
       vertices: []
       indices: 
       edges: []
@@ -1708,6 +2742,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fb432fd70cdf1534c94bf4e841215347
+      internalID: 21300588
       vertices: []
       indices: 
       edges: []
@@ -1728,6 +2763,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b290d7014d09d0744a9825a02bb9ae08
+      internalID: 21300590
       vertices: []
       indices: 
       edges: []
@@ -1748,6 +2784,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8fb37490a539997428172ecb889e8b30
+      internalID: 21300592
       vertices: []
       indices: 
       edges: []
@@ -1768,6 +2805,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 73bff327c3ec9d740b0cfe51c6d3ffa0
+      internalID: 21300594
       vertices: []
       indices: 
       edges: []
@@ -1788,6 +2826,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8fcd46f12c746514ebf27defd355e398
+      internalID: 21300596
       vertices: []
       indices: 
       edges: []
@@ -1808,6 +2847,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82a2ead9fb04ebd4e9edd2166c3113af
+      internalID: 21300598
       vertices: []
       indices: 
       edges: []
@@ -1828,6 +2868,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aed7ef58b3b51824da35123d4c68e79a
+      internalID: 21300600
       vertices: []
       indices: 
       edges: []
@@ -1848,6 +2889,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8f55eaba656a0ae439e51accb050c76c
+      internalID: 21300602
       vertices: []
       indices: 
       edges: []
@@ -1868,6 +2910,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c4690c4b0d21a2d4c8a622b6d0063770
+      internalID: 21300604
       vertices: []
       indices: 
       edges: []
@@ -1888,6 +2931,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f3384d04b3a9764fad6a6dbc3efd85b
+      internalID: 21300606
       vertices: []
       indices: 
       edges: []
@@ -1908,6 +2952,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3e6307b1fa8a1fe4da9c7a09e1e7cd58
+      internalID: 21300608
       vertices: []
       indices: 
       edges: []
@@ -1928,6 +2973,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1d09b5177af038644a7fcea4816095a8
+      internalID: 21300610
       vertices: []
       indices: 
       edges: []
@@ -1948,6 +2994,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 39c53eff23acce44fa8e22bd49e80931
+      internalID: 21300612
       vertices: []
       indices: 
       edges: []
@@ -1968,6 +3015,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: af38062bcd6c86941a25a1dd2373277e
+      internalID: 21300614
       vertices: []
       indices: 
       edges: []
@@ -1988,6 +3036,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 37f1d22697d74964f900014fa31e59c4
+      internalID: 21300616
       vertices: []
       indices: 
       edges: []
@@ -2008,6 +3057,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 87e69e5e1d65204488f268b6e1364566
+      internalID: 21300618
       vertices: []
       indices: 
       edges: []
@@ -2028,6 +3078,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8a6853992d3142e4480218b648d81d35
+      internalID: 21300620
       vertices: []
       indices: 
       edges: []
@@ -2048,6 +3099,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3584d688f93e7c948a97610dff389331
+      internalID: 21300622
       vertices: []
       indices: 
       edges: []
@@ -2068,6 +3120,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2763f7a0b07b5874f83a04c0e266af15
+      internalID: 21300624
       vertices: []
       indices: 
       edges: []
@@ -2088,6 +3141,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd76490801e34d149beec33fa7715bd9
+      internalID: 21300626
       vertices: []
       indices: 
       edges: []
@@ -2108,6 +3162,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: de195d9d504888141a5b61296ebedb70
+      internalID: 21300628
       vertices: []
       indices: 
       edges: []
@@ -2128,6 +3183,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f5c4ad3d96321fc49bc73b49b8c9e9c4
+      internalID: 21300630
       vertices: []
       indices: 
       edges: []
@@ -2148,6 +3204,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6e66668a3ed71c04ab197bbf74ffa48d
+      internalID: 21300632
       vertices: []
       indices: 
       edges: []
@@ -2168,6 +3225,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b3825ce9054307843ae1e23502fbb05b
+      internalID: 21300634
       vertices: []
       indices: 
       edges: []
@@ -2188,6 +3246,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f52e4d8405311504ea57abe07706eef2
+      internalID: 21300636
       vertices: []
       indices: 
       edges: []
@@ -2208,6 +3267,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 667ef2366fba9334a84e9085421fcee3
+      internalID: 21300638
       vertices: []
       indices: 
       edges: []
@@ -2228,6 +3288,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: baa407c1dfb0cb84cbf3bb41ad32ffe6
+      internalID: 21300640
       vertices: []
       indices: 
       edges: []
@@ -2248,6 +3309,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a5594c38e9225c24693489a2fa88074f
+      internalID: 21300642
       vertices: []
       indices: 
       edges: []
@@ -2268,6 +3330,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: daf2696fe7e63124293c3f9c397c99ae
+      internalID: 21300644
       vertices: []
       indices: 
       edges: []
@@ -2288,6 +3351,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 60f9047454372f441bfbb5b08ee16b06
+      internalID: 21300646
       vertices: []
       indices: 
       edges: []
@@ -2308,6 +3372,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 517e38b4e4fbbcf479938a01aa8827cb
+      internalID: 21300648
       vertices: []
       indices: 
       edges: []
@@ -2328,6 +3393,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7ac52320c4700384fbe031b8fedf8d3c
+      internalID: 21300650
       vertices: []
       indices: 
       edges: []
@@ -2348,6 +3414,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 83960899c0243df48adbd3c598dea4d2
+      internalID: 21300652
       vertices: []
       indices: 
       edges: []
@@ -2368,6 +3435,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36e26d29904d51b41b587c1b2d0daff4
+      internalID: 21300654
       vertices: []
       indices: 
       edges: []
@@ -2388,6 +3456,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e717d47f349ab9f48b2ea74d32a40ca4
+      internalID: 21300656
       vertices: []
       indices: 
       edges: []
@@ -2408,6 +3477,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 13774a6c0edcf544596d2c6674d7d0b8
+      internalID: 21300658
       vertices: []
       indices: 
       edges: []
@@ -2428,6 +3498,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 838c231c817a40c4ea7cd3883ee8609d
+      internalID: 21300660
       vertices: []
       indices: 
       edges: []
@@ -2448,6 +3519,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 01c78c4e0f56573478a09d6ad7e879ee
+      internalID: 21300662
       vertices: []
       indices: 
       edges: []
@@ -2468,6 +3540,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 61e546931e3fe35489444776fa704832
+      internalID: 21300664
       vertices: []
       indices: 
       edges: []
@@ -2488,6 +3561,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e3e2b1ac55817b441a4dabd013cc9e67
+      internalID: 21300666
       vertices: []
       indices: 
       edges: []
@@ -2508,6 +3582,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 901f893d5a11f2e47a709281d044ecfe
+      internalID: 21300668
       vertices: []
       indices: 
       edges: []
@@ -2528,6 +3603,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 465e8737874857d479568930aebbd878
+      internalID: 21300670
       vertices: []
       indices: 
       edges: []
@@ -2548,6 +3624,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3fc7677470694f84dbe7d2fe2cf6220f
+      internalID: 21300672
       vertices: []
       indices: 
       edges: []
@@ -2568,6 +3645,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eb9bbdf6f3c18874ea5056d38da9749b
+      internalID: 21300674
       vertices: []
       indices: 
       edges: []
@@ -2588,6 +3666,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0b6328545b646f54e9f49602e5a1d6c5
+      internalID: 21300676
       vertices: []
       indices: 
       edges: []
@@ -2608,6 +3687,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bf1c5b9d8a6fc0d4690ebd8a87ecb15c
+      internalID: 21300678
       vertices: []
       indices: 
       edges: []
@@ -2628,6 +3708,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a1763d9d81905ca4c911d9a82e50fbda
+      internalID: 21300680
       vertices: []
       indices: 
       edges: []
@@ -2648,6 +3729,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ea2345e5b1d7a56498c41d1d3b0bffc5
+      internalID: 21300682
       vertices: []
       indices: 
       edges: []
@@ -2668,6 +3750,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e2698cff006bfb4fa5c92ec7508b771
+      internalID: 21300684
       vertices: []
       indices: 
       edges: []
@@ -2688,6 +3771,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2dc57fce51c00bc4b84840f7c1215555
+      internalID: 21300686
       vertices: []
       indices: 
       edges: []
@@ -2708,6 +3792,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2d9a1823c34faf241ac92c48df9ce438
+      internalID: 21300688
       vertices: []
       indices: 
       edges: []
@@ -2728,6 +3813,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a2316c9b462f4be4fbbe5d50590d2b30
+      internalID: 21300690
       vertices: []
       indices: 
       edges: []
@@ -2748,6 +3834,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8a9082c0c9da834ea63b75675238e41
+      internalID: 21300692
       vertices: []
       indices: 
       edges: []
@@ -2768,6 +3855,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b45f7aaff6676ad4f9ab737ff08e4d2c
+      internalID: 21300694
       vertices: []
       indices: 
       edges: []
@@ -2788,6 +3876,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b3e0caf3d919bc14ca3748aecea24b1b
+      internalID: 21300696
       vertices: []
       indices: 
       edges: []
@@ -2808,6 +3897,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5d9fc9f8aba09f94eaa0bdf69b165f26
+      internalID: 21300698
       vertices: []
       indices: 
       edges: []
@@ -2828,6 +3918,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ad5cfb466d6d0b4c9c44c4045c8ae28
+      internalID: 21300700
       vertices: []
       indices: 
       edges: []
@@ -2848,6 +3939,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 653cdd7f38bde3847a7ec973061ba1a3
+      internalID: 21300702
       vertices: []
       indices: 
       edges: []
@@ -2868,6 +3960,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 92ac89f714a846049a7c1a51c682008e
+      internalID: 21300704
       vertices: []
       indices: 
       edges: []
@@ -2888,6 +3981,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9989a9a28bcbe6a4183502d93ee134e7
+      internalID: 21300706
       vertices: []
       indices: 
       edges: []
@@ -2908,6 +4002,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b9681af871699044b4772e6f20f2011
+      internalID: 21300708
       vertices: []
       indices: 
       edges: []
@@ -2928,6 +4023,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7102d3a40efa0dd4297d9d08f4c3162e
+      internalID: 21300710
       vertices: []
       indices: 
       edges: []
@@ -2948,6 +4044,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7f85841a3b9044a479fa51cc40fe16f2
+      internalID: 21300712
       vertices: []
       indices: 
       edges: []
@@ -2968,6 +4065,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 266b9e44c984e8e41b9fa69d3e1049ca
+      internalID: 21300714
       vertices: []
       indices: 
       edges: []
@@ -2988,6 +4086,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3f3c65a393bdf5b4dae04b9ab7a3703f
+      internalID: 21300716
       vertices: []
       indices: 
       edges: []
@@ -3008,6 +4107,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 017766c7ac75b07439b95be4c8665e04
+      internalID: 21300718
       vertices: []
       indices: 
       edges: []
@@ -3028,6 +4128,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 005502119645fb247a7b97b2f0135241
+      internalID: 21300720
       vertices: []
       indices: 
       edges: []
@@ -3048,6 +4149,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 353ab95d6d0d88249ac99bfe6dfa7b56
+      internalID: 21300722
       vertices: []
       indices: 
       edges: []
@@ -3068,6 +4170,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0d13f559e642cff44b7332a49697322e
+      internalID: 21300724
       vertices: []
       indices: 
       edges: []
@@ -3088,6 +4191,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 121c5d77f0cd48244bff85d9fbb68c84
+      internalID: 21300726
       vertices: []
       indices: 
       edges: []
@@ -3108,6 +4212,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 38be13e1f6b8ff740b3f632129956cf9
+      internalID: 21300728
       vertices: []
       indices: 
       edges: []
@@ -3128,6 +4233,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9b73cf93a781d2d4e821157509358131
+      internalID: 21300730
       vertices: []
       indices: 
       edges: []
@@ -3148,6 +4254,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 403d321f5ddce95438f1bb4059ad2995
+      internalID: 21300732
       vertices: []
       indices: 
       edges: []
@@ -3168,6 +4275,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3ae57940391227444b1f46376f0d3d88
+      internalID: 21300734
       vertices: []
       indices: 
       edges: []
@@ -3188,6 +4296,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c45368adbb8949c4d938a14abd6d418d
+      internalID: 21300736
       vertices: []
       indices: 
       edges: []
@@ -3208,6 +4317,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3b06fb75d022afa41a68be5aa5a114a0
+      internalID: 21300738
       vertices: []
       indices: 
       edges: []
@@ -3228,6 +4338,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6515bcdffbada7942afa78259793d00a
+      internalID: 21300740
       vertices: []
       indices: 
       edges: []
@@ -3248,6 +4359,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 42e3e599bde39254884f918f6af6304a
+      internalID: 21300742
       vertices: []
       indices: 
       edges: []
@@ -3268,6 +4380,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e66b7d72a02476b429920d2ce66610b8
+      internalID: 21300744
       vertices: []
       indices: 
       edges: []
@@ -3288,6 +4401,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 67e4abc89c2b2a34894355b4c512913f
+      internalID: 21300746
       vertices: []
       indices: 
       edges: []
@@ -3308,6 +4422,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3d40ec10554237b4bbe596a36261da79
+      internalID: 21300748
       vertices: []
       indices: 
       edges: []
@@ -3328,6 +4443,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4dc3419f18ce1654a8e4738d4cd6bdd6
+      internalID: 21300750
       vertices: []
       indices: 
       edges: []
@@ -3348,6 +4464,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4fd74717b1da5a249b36d489cc308bff
+      internalID: 21300752
       vertices: []
       indices: 
       edges: []
@@ -3368,6 +4485,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 56f554f341e66fd488637a1ec2016d18
+      internalID: 21300754
       vertices: []
       indices: 
       edges: []
@@ -3388,6 +4506,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d88c56601c30faa40b5e12627d7f8763
+      internalID: 21300756
       vertices: []
       indices: 
       edges: []
@@ -3408,6 +4527,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 81e451113cb4cb544a3358930714e570
+      internalID: 21300758
       vertices: []
       indices: 
       edges: []
@@ -3428,6 +4548,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7b13cea2da9306e41ac0af3762624bc6
+      internalID: 21300760
       vertices: []
       indices: 
       edges: []
@@ -3448,6 +4569,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fda6171aacb640448bb990d1b0338125
+      internalID: 21300762
       vertices: []
       indices: 
       edges: []
@@ -3468,6 +4590,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0fedaf1a1848e3a4286e7501abf1029a
+      internalID: 21300764
       vertices: []
       indices: 
       edges: []
@@ -3488,6 +4611,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 64547b0f1974092428862b559dba8674
+      internalID: 21300766
       vertices: []
       indices: 
       edges: []
@@ -3508,6 +4632,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 05be83c67e06e2043a3eb5aa6fee7290
+      internalID: 21300768
       vertices: []
       indices: 
       edges: []
@@ -3528,6 +4653,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 032b31c54f495174988b939938fc4a4e
+      internalID: 21300770
       vertices: []
       indices: 
       edges: []
@@ -3548,6 +4674,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a05299044c9b87641a13d00363e31a9b
+      internalID: 21300772
       vertices: []
       indices: 
       edges: []
@@ -3568,6 +4695,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 060b6612227bc604291303bd199eabc9
+      internalID: 21300774
       vertices: []
       indices: 
       edges: []
@@ -3588,6 +4716,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e27409be180339e4aa633d88cd8e646a
+      internalID: 21300776
       vertices: []
       indices: 
       edges: []
@@ -3608,6 +4737,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f0bb267ada1ea0840b567b195448d996
+      internalID: 21300778
       vertices: []
       indices: 
       edges: []
@@ -3628,6 +4758,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5c257b81bbd93324db422ed4401e9892
+      internalID: 21300780
       vertices: []
       indices: 
       edges: []
@@ -3648,6 +4779,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: caf4b0c5cc9a55f479eecd0ba5dee0d3
+      internalID: 21300782
       vertices: []
       indices: 
       edges: []
@@ -3668,6 +4800,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb55ceadfed4b1f4b9222f83b20e0b6f
+      internalID: 21300784
       vertices: []
       indices: 
       edges: []
@@ -3688,6 +4821,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 76208de6d1d80dc43bcaed2bb2fec7e0
+      internalID: 21300786
       vertices: []
       indices: 
       edges: []
@@ -3708,6 +4842,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5295e151b6d55684dbae66374fbab083
+      internalID: 21300788
       vertices: []
       indices: 
       edges: []
@@ -3728,6 +4863,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 33076cb1ce689b046b86e419a278ed8f
+      internalID: 21300790
       vertices: []
       indices: 
       edges: []
@@ -3748,6 +4884,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 15a05f5833d57ca4dad40927f7add4ff
+      internalID: 21300792
       vertices: []
       indices: 
       edges: []
@@ -3768,6 +4905,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f9a892d52447de149a2d92ae8ba886c3
+      internalID: 21300794
       vertices: []
       indices: 
       edges: []
@@ -3788,6 +4926,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5537b2b1387042f49bfe73cfb2b9273b
+      internalID: 21300796
       vertices: []
       indices: 
       edges: []
@@ -3808,6 +4947,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cb2edc331ebbef94d8f00426e7bbb6a1
+      internalID: 21300798
       vertices: []
       indices: 
       edges: []
@@ -3828,6 +4968,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b9cc96b1af53d7a4caf201e52d0b1061
+      internalID: 21300800
       vertices: []
       indices: 
       edges: []
@@ -3848,6 +4989,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6cd9badd4fb051e4a9f03c5fbc58cf38
+      internalID: 21300802
       vertices: []
       indices: 
       edges: []
@@ -3868,6 +5010,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 122b9fb0627847b41bb88515b9df0023
+      internalID: 21300804
       vertices: []
       indices: 
       edges: []
@@ -3888,6 +5031,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7638369e67e615d4bab21e9d6f6241ce
+      internalID: 21300806
       vertices: []
       indices: 
       edges: []
@@ -3908,6 +5052,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: caa6c398ae1c0294a875a95f79b68b1b
+      internalID: 21300808
       vertices: []
       indices: 
       edges: []
@@ -3928,6 +5073,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1253896778d06844d860a6cd0892c3d5
+      internalID: 21300810
       vertices: []
       indices: 
       edges: []
@@ -3948,6 +5094,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e62a93c58f88bcd4f8c227b0e4b7d8ee
+      internalID: 21300812
       vertices: []
       indices: 
       edges: []
@@ -3968,6 +5115,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8ce405c24f7d1b14eb6ccdbe22d703a6
+      internalID: 21300814
       vertices: []
       indices: 
       edges: []
@@ -3988,6 +5136,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d3a54b2acd33636488a974a093d8a7a7
+      internalID: 21300816
       vertices: []
       indices: 
       edges: []
@@ -4008,6 +5157,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b28081efdee08884580b9125eb8849a7
+      internalID: 21300818
       vertices: []
       indices: 
       edges: []
@@ -4028,6 +5178,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9ba925ef7050ee04c97aefc2258bfd8c
+      internalID: 21300820
       vertices: []
       indices: 
       edges: []
@@ -4048,6 +5199,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 68c7d9174b398f74d99aa7484bd9f5b6
+      internalID: 21300822
       vertices: []
       indices: 
       edges: []
@@ -4068,6 +5220,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 641146743cbc797448ca2fff1bc1681c
+      internalID: 21300824
       vertices: []
       indices: 
       edges: []
@@ -4088,6 +5241,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b3a2b9aff3538b24f910aeb83fea7f0e
+      internalID: 21300826
       vertices: []
       indices: 
       edges: []
@@ -4108,6 +5262,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c1810813641aade4fb6ed16e773e1ea0
+      internalID: 21300828
       vertices: []
       indices: 
       edges: []
@@ -4128,6 +5283,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 46313914b047cd949b62cf62c007fd9b
+      internalID: 21300830
       vertices: []
       indices: 
       edges: []
@@ -4148,6 +5304,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 15a3abf073b3a1a47be543bf719dea9f
+      internalID: 21300832
       vertices: []
       indices: 
       edges: []
@@ -4168,6 +5325,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4a7acad1e275112478cdadb3204fcf1d
+      internalID: 21300834
       vertices: []
       indices: 
       edges: []
@@ -4188,6 +5346,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d70bac40af177474bb7fe9a15efbc5b3
+      internalID: 21300836
       vertices: []
       indices: 
       edges: []
@@ -4208,6 +5367,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ec1d9d143adbbe43acde826ed79a048
+      internalID: 21300838
       vertices: []
       indices: 
       edges: []
@@ -4228,6 +5388,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9bef73eb92606c34dbc8b74de012fa18
+      internalID: 21300840
       vertices: []
       indices: 
       edges: []
@@ -4248,6 +5409,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c1c8e25b62856c74fa9b0b032e8d4eb1
+      internalID: 21300842
       vertices: []
       indices: 
       edges: []
@@ -4268,6 +5430,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8313c5b12d9b0bc4f8935504433e5d0e
+      internalID: 21300844
       vertices: []
       indices: 
       edges: []
@@ -4288,6 +5451,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7b38da0a803b8d546af80513bfdbca66
+      internalID: 21300846
       vertices: []
       indices: 
       edges: []
@@ -4308,6 +5472,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d204861b5f0636c4e814de3ab29acec7
+      internalID: 21300848
       vertices: []
       indices: 
       edges: []
@@ -4328,6 +5493,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ab4d610a44f94cf439b586f4385d7f8a
+      internalID: 21300850
       vertices: []
       indices: 
       edges: []
@@ -4348,6 +5514,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 41881b848db944a41b386a593a7513c5
+      internalID: 21300852
       vertices: []
       indices: 
       edges: []
@@ -4368,6 +5535,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9953c0bb1472edf4baca51b6f0379eb8
+      internalID: 21300854
       vertices: []
       indices: 
       edges: []
@@ -4388,6 +5556,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 625609cb1d5ec84418ec978e7e898ee5
+      internalID: 21300856
       vertices: []
       indices: 
       edges: []
@@ -4408,6 +5577,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9e501585da3396b4591b709f7f29b7d6
+      internalID: 21300858
       vertices: []
       indices: 
       edges: []
@@ -4428,6 +5598,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3cc6973f2d89d414ca8bf624760684e0
+      internalID: 21300860
       vertices: []
       indices: 
       edges: []
@@ -4448,6 +5619,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 756151b5877c9c74e9df7461ae420e28
+      internalID: 21300862
       vertices: []
       indices: 
       edges: []
@@ -4468,6 +5640,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ab6aa0e7622282c4ea1c75efb7de6a80
+      internalID: 21300864
       vertices: []
       indices: 
       edges: []
@@ -4488,6 +5661,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 71797f3a31333a64f8afafe2f3ae12bb
+      internalID: 21300866
       vertices: []
       indices: 
       edges: []
@@ -4508,6 +5682,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6b28d686e5e55da43ac8c197e795253e
+      internalID: 21300868
       vertices: []
       indices: 
       edges: []
@@ -4528,6 +5703,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f3ef4044cd5845a4dab2e73082324846
+      internalID: 21300870
       vertices: []
       indices: 
       edges: []
@@ -4548,6 +5724,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fb8d16a372d930049a81c8b65743cdf9
+      internalID: 21300872
       vertices: []
       indices: 
       edges: []
@@ -4568,6 +5745,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d62f6b605fbe78f4597d86a5b0db2ff8
+      internalID: 21300874
       vertices: []
       indices: 
       edges: []
@@ -4588,6 +5766,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 032b6d7fb2ee1bd4e8298589dfaa1248
+      internalID: 21300876
       vertices: []
       indices: 
       edges: []
@@ -4608,6 +5787,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 625f0956c8ce73d499941766e38dae14
+      internalID: 21300878
       vertices: []
       indices: 
       edges: []
@@ -4628,6 +5808,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0873f3834683237428db8b889589895c
+      internalID: 21300880
       vertices: []
       indices: 
       edges: []
@@ -4648,6 +5829,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c5b1b5b02acfdce4788f664957305a4f
+      internalID: 21300882
       vertices: []
       indices: 
       edges: []
@@ -4668,6 +5850,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: df4434e2a6c605947bfdc960be4e7fd3
+      internalID: 21300884
       vertices: []
       indices: 
       edges: []
@@ -4688,6 +5871,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82b985a4b4eb8454890123e5b228f26c
+      internalID: 21300886
       vertices: []
       indices: 
       edges: []
@@ -4708,6 +5892,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7f3b9cb559cca524abaded67f4cb50f9
+      internalID: 21300888
       vertices: []
       indices: 
       edges: []
@@ -4728,6 +5913,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8fdc2a72d96affe49a4a8ae8119e66de
+      internalID: 21300890
       vertices: []
       indices: 
       edges: []
@@ -4748,6 +5934,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1ed15aeb015c9044796471e1893f82dc
+      internalID: 21300892
       vertices: []
       indices: 
       edges: []
@@ -4768,6 +5955,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8f20cc3a4e8c70b4d84635aa2f610e11
+      internalID: 21300894
       vertices: []
       indices: 
       edges: []
@@ -4788,6 +5976,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fe92317848afe4846a52a6244e5568f5
+      internalID: 21300896
       vertices: []
       indices: 
       edges: []
@@ -4808,6 +5997,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d76b7e38ade9bf143931a2338a5e6727
+      internalID: 21300898
       vertices: []
       indices: 
       edges: []
@@ -4828,6 +6018,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 66b0754c356134d4d95706903229231d
+      internalID: 21300900
       vertices: []
       indices: 
       edges: []
@@ -4848,6 +6039,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eb97790d6ba44dc498c9390e572a0d99
+      internalID: 21300902
       vertices: []
       indices: 
       edges: []
@@ -4868,6 +6060,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 02b4216b323ad774faf0c8975fe615cb
+      internalID: 21300904
       vertices: []
       indices: 
       edges: []
@@ -4888,6 +6081,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8430b710f5c29c4281ffa823c73d131
+      internalID: 21300906
       vertices: []
       indices: 
       edges: []
@@ -4908,6 +6102,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 48e1a5f872d36904abd36ff07ba37605
+      internalID: 21300908
       vertices: []
       indices: 
       edges: []
@@ -4928,6 +6123,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f0f7286db33e69149a4057e75b56addc
+      internalID: 21300910
       vertices: []
       indices: 
       edges: []
@@ -4948,6 +6144,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 35ac459607373044d8976c8431a89c33
+      internalID: 21300912
       vertices: []
       indices: 
       edges: []
@@ -4968,6 +6165,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4ab5f960921424044ba0450fe2812ab5
+      internalID: 21300914
       vertices: []
       indices: 
       edges: []
@@ -4988,6 +6186,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ecfb518363941a640b310fc58be7653a
+      internalID: 21300916
       vertices: []
       indices: 
       edges: []
@@ -5008,6 +6207,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: af3f69953583a784486da61faefc6ac0
+      internalID: 21300918
       vertices: []
       indices: 
       edges: []
@@ -5028,6 +6228,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6a761cc89be8fe040a58b9cc01c8b384
+      internalID: 21300920
       vertices: []
       indices: 
       edges: []
@@ -5048,6 +6249,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a1141ea2eef00cd4da8ed0a890d97982
+      internalID: 21300922
       vertices: []
       indices: 
       edges: []
@@ -5068,6 +6270,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3749757f8e2795f4db9a5a72c07641fb
+      internalID: 21300924
       vertices: []
       indices: 
       edges: []
@@ -5088,6 +6291,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 240f8fdecf2406b40a5def3c30ebcbd4
+      internalID: 21300926
       vertices: []
       indices: 
       edges: []
@@ -5108,6 +6312,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8d8000e7156559449041ba47fdc625a
+      internalID: 21300928
       vertices: []
       indices: 
       edges: []
@@ -5128,6 +6333,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2350f12ac8fa4334baa0780d68cacf04
+      internalID: 21300930
       vertices: []
       indices: 
       edges: []
@@ -5148,6 +6354,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4e673fd76bfd86c488597aac6f90b2c0
+      internalID: 21300932
       vertices: []
       indices: 
       edges: []
@@ -5168,6 +6375,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 414fdc7de88758644a7f91d2b3a32cb7
+      internalID: 21300934
       vertices: []
       indices: 
       edges: []
@@ -5188,6 +6396,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 44cd9b357682b994ca8c5eda2581c5e7
+      internalID: 21300936
       vertices: []
       indices: 
       edges: []
@@ -5208,6 +6417,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b165d6c16681d4b4287939f9b389e800
+      internalID: 21300938
       vertices: []
       indices: 
       edges: []
@@ -5228,6 +6438,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8204b2c2083c0984187384e64c2f35c6
+      internalID: 21300940
       vertices: []
       indices: 
       edges: []
@@ -5248,6 +6459,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a3c63826242afb94cb8bc62f39234254
+      internalID: 21300942
       vertices: []
       indices: 
       edges: []
@@ -5268,6 +6480,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2806df128da90e843bccecf1df99aa48
+      internalID: 21300944
       vertices: []
       indices: 
       edges: []
@@ -5288,6 +6501,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 51b8543559844b14caeb2047cb4e238a
+      internalID: 21300946
       vertices: []
       indices: 
       edges: []
@@ -5308,6 +6522,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c1fb9c6e1ddd64e43af5cbe52de9093b
+      internalID: 21300948
       vertices: []
       indices: 
       edges: []
@@ -5328,6 +6543,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1f91c7b752775304994d88c1faf0b329
+      internalID: 21300950
       vertices: []
       indices: 
       edges: []
@@ -5348,6 +6564,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c516c962341ece846a2eaa6d07809717
+      internalID: 21300952
       vertices: []
       indices: 
       edges: []
@@ -5368,6 +6585,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a71a5882d0c209a4b863cc23cab96dfc
+      internalID: 21300954
       vertices: []
       indices: 
       edges: []
@@ -5388,6 +6606,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d8e33f71fc77d9f49a2823954e3a0065
+      internalID: 21300956
       vertices: []
       indices: 
       edges: []
@@ -5408,6 +6627,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cdcb97fc8591ff24d9db70a367895159
+      internalID: 21300958
       vertices: []
       indices: 
       edges: []
@@ -5428,6 +6648,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c66126493da5a644bbf6e4cbd68f1dc3
+      internalID: 21300960
       vertices: []
       indices: 
       edges: []
@@ -5448,6 +6669,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 562047dd6d8070243b037b68da1571f7
+      internalID: 21300962
       vertices: []
       indices: 
       edges: []
@@ -5468,6 +6690,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 08ea6f97376a4cb43bc4dcc7d9405307
+      internalID: 21300964
       vertices: []
       indices: 
       edges: []
@@ -5488,6 +6711,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6c255572f803a9145931933de126825a
+      internalID: 21300966
       vertices: []
       indices: 
       edges: []
@@ -5508,6 +6732,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b554f95ddcd101d469044fd2c932b04a
+      internalID: 21300968
       vertices: []
       indices: 
       edges: []
@@ -5528,6 +6753,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f42d7328a3ed6294e994518a38c8be35
+      internalID: 21300970
       vertices: []
       indices: 
       edges: []
@@ -5548,6 +6774,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ceabfac768aa1dd43851c7f0332451e3
+      internalID: 21300972
       vertices: []
       indices: 
       edges: []
@@ -5556,10 +6783,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: aef5a313f7b633b4ebb62a3d555c1139
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

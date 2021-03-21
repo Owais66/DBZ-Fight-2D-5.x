@@ -101,7 +101,7 @@ namespace DuloGames.UI
 		/// <param name="eventData">Event data.</param>
 		new public bool IsHighlighted(BaseEventData eventData)
 		{
-			return base.IsHighlighted(eventData);
+			return base.IsHighlighted();
 		}
 	}
 }

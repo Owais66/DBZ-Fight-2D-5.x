@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.DBZ-Fight-2D-5.x-master.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Unity Projects\Project\DBZ-Fight-2D-5.x-master\.idea\.idea.DBZ-Fight-2D-5.x-master\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
