@@ -1,0 +1,130 @@
+using UnityEngine;
+using System.Collections;
+using System;
+public class BoxController : MonoBehaviour
+{
+    #region Serialized Objects
+    [SerializeField] BoxCollider2D GrabBox;
+    [SerializeField] BoxCollider2D HeadHurtBox;
+    [SerializeField] BoxCollider2D AbsHurtBox;
+    [SerializeField] BoxCollider2D LegsHurtBox;
+    [SerializeField] BoxCollider2D HitHurtBoxCollider;
+    [SerializeField] BoxCollider2D BlockBoxCollider;
+    #endregion
+    public DataBase PlayerDB;
+    GameObject Target;
+    ControlsManager CM;
+    BoxGizmos boxGizmos;
+    private void Start()
+    {
+        PlayerDB = (DataBase)Resources.Load(gameObject.name + "DB");
+        boxGizmos = GetComponent<BoxGizmos>();
+    }
+
+    #region HitBox
+    _HitBox HB;
+    Vector3 HitBoxOffset;
+    Vector3 HitBoxSize;
+    public void HitboxEve(string name)
+    {   
+        #if UNITY_EDITOR 
+        if(!PlayerDB.HitBoxes.ContainsKey(name)){Debug.LogError(name+" HitBox notfound"); return;}
+        #endif
+        HB = PlayerDB.HitBoxes[name];
+        if(HB == null) 
+        HitBoxSize = HB.Hitbox.Size;
+        HitBoxOffset = HB.Hitbox.Offset;
+        HitBoxOffset.x *= transform.right.x;
+        boxGizmos.StartHitCoroutine(HB.Hitbox);
+        Collider2D[] HBCol = Physics2D.OverlapBoxAll(transform.position + HitBoxOffset, HB.Hitbox.Size, 0);
+        foreach (Collider2D hitbox in HBCol)
+        {
+            if (hitbox.tag == Target.tag && hitbox.name == "HurtBox")
+            {
+                CM.OnHit(HB);
+                return;
+            }
+        }
+    }
+    public void HitRay(){
+
+    }
+    #endregion
+    #region HurtBox
+    public _HurtBox Hurtbox;
+    /// <summary>
+    /// HurtBox Start Event for Animations
+    /// </summary>
+    /// <param name="name">name of the Hurtbox  to activate</param>
+    public void HurtBoxStartEve(string name)
+    {
+        #if UNITY_EDITOR 
+        if(!PlayerDB.HurtBoxes.ContainsKey(name)){Debug.LogError(name+ " HurtBox not Found in "+ tag); return;}
+        #endif
+        Hurtbox = PlayerDB.HurtBoxes[name];
+        CM.OnHurtBox(Hurtbox.HurtBoxType);
+        // Head HurtBox
+        HeadHurtBox.offset = Hurtbox.Head.Offset;
+        HeadHurtBox.size = Hurtbox.Head.Size;
+        // Abs HurtBox
+        AbsHurtBox.offset = Hurtbox.Abs.Offset;
+        AbsHurtBox.size = Hurtbox.Abs.Size;
+        // Legs HurtBox
+        LegsHurtBox.offset = Hurtbox.Legs.Offset;
+        LegsHurtBox.size = Hurtbox.Legs.Size;
+
+        // GrabBox
+        GrabBox.offset = Hurtbox.GrabBox.Offset;
+        GrabBox.size = Hurtbox.GrabBox.Size;
+    }
+
+    #endregion
+    #region BlockBoxs
+    public void BlockBoxStartEve(string BlockBoxName)
+    {   
+        #if UNITY_EDITOR 
+        if(!PlayerDB.BlockBoxes.ContainsKey(BlockBoxName)){Debug.LogError(BlockBoxName+ " BlockBox not Found"); return;}
+        #endif
+        _BlockBox Blockbox = PlayerDB.BlockBoxes[BlockBoxName];
+        BlockBoxCollider.offset = Blockbox.BlockBox.Offset;
+        BlockBoxCollider.size = Blockbox.BlockBox.Size;
+        BlockBoxCollider.enabled = true;
+    }
+    public void BlockBoxEndEve()
+    {
+        BlockBoxCollider.enabled = false;
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {   
+        if(Target == null) return;
+        if (other.gameObject.tag == Target.tag && other.gameObject.name == "BlockBox")
+        {
+            CM.BlockTrig = true;
+            CM.BlockStart();
+        }
+    }
+    private void OnTriggerExit2D(Collider2D other)
+    {   
+        if(Target == null) return;
+        if (other.gameObject.tag == Target.tag && other.gameObject.name == "BlockBox")
+        {
+            CM.BlockTrig = false;
+        }
+    }
+    #endregion
+    #region HitHurtBox
+    _HitHurtBox HitHurtBox;
+    public void HitHurtBoxStartEve(string Name)
+    {
+        HitHurtBox = PlayerDB.HitHurtBoxs[Name];
+        HitHurtBoxCollider.enabled = true;
+        HitHurtBoxCollider.offset = HitHurtBox.HitHurtBox.Offset;
+        HitHurtBoxCollider.size = HitHurtBox.HitHurtBox.Size;
+    }
+    public void HitHurtBoxEndEve(string Name)
+    {
+        HitHurtBoxCollider.enabled = false;
+    }
+    
+    #endregion
+}

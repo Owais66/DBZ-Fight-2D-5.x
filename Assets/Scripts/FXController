@@ -1,0 +1,101 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class FXController : MonoBehaviour
+{
+    [SerializeField] RuntimeAnimatorController EffectAnim;
+    AnimatorMem[] animators = new AnimatorMem[3];
+    private void Start()
+    {
+        for (int i = 0; i < animators.Length; i++)
+        {
+            animators[i].animator = transform.GetChild(i).GetComponent<Animator>();
+            animators[i].Disable = true;
+        }
+
+        BattleManager.Instance.OnHitEvent += (PlayerData data) => { if(data.Target.GetComponent<ControlsManager>().Blocking) return; if (data.hitBox.StandHRID == 6) SpecialHitEffect(data); else HitEffect(data); };
+        BattleManager.Instance.OnBlockEvent += onBlock;
+    }
+    #region Hit and Special FX
+    void HitEffect(PlayerData data)
+    { 
+        AnimatorMem animMem = GetAnimator();
+        StartCoroutine(DisableObject(0.5f, animMem));
+        Transform TargetTrans = data.Target.transform;
+        animMem.animator.transform.position = TargetTrans.position + data.hitBox.Hitbox.Offset + Vector3.right * ((TargetTrans.right.x == 1) ? -3 : -6);
+
+        if(data.hitBox.Effect == "Explosion"){animMem.animator.SetTrigger("Explosion"); return;}
+        
+        animMem.animator.SetTrigger("Hit");
+        
+        
+    }
+    void SpecialHitEffect(PlayerData data)
+    {
+        if (SpecialCoreTrig) return;
+        AnimatorMem animMem = GetAnimator();
+        StartCoroutine(RunUntilSpecial(data, animMem));
+    }
+
+    bool SpecialCoreTrig;
+    IEnumerator RunUntilSpecial(PlayerData data, AnimatorMem animMem)
+    {
+        SpecialCoreTrig = true;
+        ControlsManager PlayerCM = data.ThisPlayer.GetComponent<ControlsManager>();
+        yield return null;
+        animMem.animator.SetBool("SpecialHit", true);
+        Transform animTrans = animMem.animator.transform;
+        Transform TargetTrans = data.Target.transform;
+        Vector3 Off = ((TargetTrans.right.x == 1) ? new Vector3(2, 2) : new Vector3(-2, 2));
+        while (PlayerCM.HBType.CMS == State.StandSpecial)
+        {
+            animTrans.position = TargetTrans.position + Off; //new Vector3(2,2)*dir;
+            yield return null;
+        }
+
+        animMem.animator.SetBool("SpecialHit", false);
+        StartCoroutine(DisableObject(1f, animMem));
+        SpecialCoreTrig = false;
+
+
+    }
+    #endregion
+    #region Block FX
+    void onBlock(PlayerData data)
+    {
+        AnimatorMem animMem = GetAnimator();
+        animMem.animator.transform.position = data.ThisPlayer.transform.position;
+        animMem.animator.SetTrigger("Block");
+        StartCoroutine(DisableObject(0.5f, animMem));
+    }
+    #endregion
+
+    #region FX Coroutines
+    IEnumerator DisableObject(float waitFor, AnimatorMem animMem)
+    {
+        yield return new WaitForSeconds(waitFor);
+        if (animMem.Disable) animMem.animator.gameObject.SetActive(false);
+        else GameObject.Destroy(animMem.animator.gameObject, 1f);
+        yield return null;
+    }
+    AnimatorMem GetAnimator()
+    {
+        foreach (var obj in animators)
+        {
+            if (!obj.animator.gameObject.activeSelf) { obj.animator.gameObject.SetActive(true); return obj; }
+        }
+        AnimatorMem animMem = new AnimatorMem();
+        animMem.animator = Instantiate(animators[0].animator, Vector3.zero, Quaternion.identity);
+        animMem.animator.transform.SetParent(transform);
+        return animMem;
+    }
+    #endregion
+}
+
+struct AnimatorMem
+{
+    public Animator animator;
+    public bool Disable;
+}
+

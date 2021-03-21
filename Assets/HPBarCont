@@ -1,0 +1,63 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using System.Collections;
+
+public class HPBarCont : MonoBehaviour
+{   
+    [SerializeField] Image RedHealth;
+    [SerializeField] Image Health;
+    [SerializeField] Image Mana;
+
+    public float _health { get{return Health.fillAmount;} }
+    public float _mana { get{return Mana.fillAmount;} }
+
+    public void SetHealth(float health)
+    {
+        CoreHealth = health; if(!HealthCoreActive) StartCoroutine(HealthCore(1));
+        Debug.Log("Health");    
+    }
+    [Range(0,1)]float CoreHealth;
+    bool HealthCoreActive;
+    IEnumerator HealthCore(float RedHealthTime)
+    {   
+        HealthCoreActive = true;
+        while (Health.fillAmount >= CoreHealth)
+        {   
+            Health.fillAmount -= Time.deltaTime;
+            yield return null;
+        }
+        HealthCoreActive = false;
+        if(!RedAnimCoreActive) StartCoroutine(RedAnimCore(RedHealthTime));
+        Debug.Log("Healst");
+    }
+    bool RedAnimCoreActive;
+    IEnumerator RedAnimCore(float RedHealthTime){
+        RedAnimCoreActive = true;
+        yield return new WaitForSeconds(RedHealthTime);
+        while(RedHealth.fillAmount >= _health){
+            if(RedHealth.fillAmount == 0) break;
+            RedHealth.fillAmount -= Time.deltaTime;
+            if(HealthCoreActive) yield return  new WaitUntil(()=> !HealthCoreActive);
+            yield return null;
+        }
+        RedAnimCoreActive = false;
+    }
+    #region ManaControls
+    public void SetMana(float mana){
+        Mana.fillAmount = mana;
+    }
+    bool ManaChargeTrig;
+    public void ManaChargeStart(){
+        if(ManaChargeTrig == false){ ManaChargeTrig = true ;StartCoroutine(ManaChargeUp());}
+    }
+    public void ManaChargeStop(){
+        ManaChargeTrig = false;
+    }
+    IEnumerator ManaChargeUp(){
+        while(ManaChargeTrig){
+            Mana.fillAmount += 0.01f;
+            yield return null;
+        }
+    }
+    #endregion
+}

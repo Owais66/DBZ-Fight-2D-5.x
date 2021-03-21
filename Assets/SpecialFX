@@ -1,0 +1,27 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SpecialFX : MonoBehaviour
+{   
+    ControlsManager CM;
+    Animator animator;
+    SpriteRenderer SpriteRend;
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+        SpriteRend = GetComponent<SpriteRenderer>();
+        CM = GetComponentInParent<ControlsManager>();
+    }
+    public void StartSpecial(){
+        Debug.Log("asjwd");
+        animator.SetTrigger("Kamehame");
+    }
+    [SerializeField] float Dist;
+    private void OnDrawGizmosSelected() {
+
+        Gizmos.matrix = Matrix4x4.TRS(transform.position, transform.rotation, Vector3.one);
+        Gizmos.color = Color.magenta;
+        Gizmos.DrawLine(Vector3.zero, Vector3.right*Dist);
+    }
+}

@@ -1,0 +1,152 @@
+using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+public class PlayerAnim : MonoBehaviour
+{
+    ControlsManager CM;
+    [HideInInspector] public Animator animator;
+    Animator SpecialFX;
+    Animator AuraFX;
+    Rigidbody2D Rigidbody;
+    Object Obj_KiBlast;
+    GameObject Target;
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+        SpecialFX = transform.Find("SpecialFX").GetComponent<Animator>();
+        AuraFX = transform.Find("AuraFX").GetComponent<Animator>();
+
+        Rigidbody = GetComponent<Rigidbody2D>();
+        CM = GetComponent<ControlsManager>();
+        Obj_KiBlast = Resources.Load("KiBlast");
+    }
+    #region Movement
+    public void Running(float Direction)
+    {
+        animator.SetInteger("Direction", (int)Direction);
+    }
+    public void Crouch(bool cond)
+    {
+        animator.SetBool("Crouch", cond);
+    }
+    public void Jump()
+    {
+        animator.SetTrigger("Jump");
+    }
+    #endregion
+    #region Block
+    public void Block(bool Active)
+    {
+        animator.SetBool("Block", Active);
+    }
+    #endregion
+    #region HitRec
+    public void HitRec(PlayerData data)
+    {
+        if (data.hitBox.StandHRID == 6)
+        {
+            LastSpecialHit = true;
+            if (!SpecialHitRecTrig) StartCoroutine(SpecialHitRec());
+            return;
+        }
+        switch (CM.HBType.CMS2)
+        {
+            case State2.Standing: SetHitRec(data.hitBox.StandHRID); return;
+            case State2.Crouching: SetHitRec(data.hitBox.CrouchHRID); return;
+            case State2.Jumping: SetHitRec(data.hitBox.InAirHRID); return;
+        }
+    }
+    void SetHitRec(int ID)
+    {
+        animator.SetInteger("HitRec", ID);
+        animator.SetTrigger("HitRecTrig");
+
+    }
+    bool SpecialHitRecTrig;
+    bool LastSpecialHit;
+    IEnumerator SpecialHitRec()
+    {
+        animator.SetBool("SpecialHitRec", true);
+        SpecialHitRecTrig = true;
+        SetHitRec(6);
+        Vector3 Dir = ((transform.right.x == 1) ? new Vector3(-1, 1) : new Vector3(1, 1));
+        float WaitTill = 0.5f;
+        float timer = 0;
+        while (LastSpecialHit || timer< WaitTill)
+        {   
+            if(LastSpecialHit){
+                timer = 0;
+                Rigidbody.AddForce(Dir * 1700);
+                LastSpecialHit = false;
+                }
+            timer += Time.deltaTime;
+            yield return null;
+        }
+        SetHitRec(7);
+        yield return new WaitForSeconds(0.2f);
+        SpecialHitRecTrig = false;
+        animator.SetBool("SpecialHitRec", false);
+        yield return null;
+    }
+    #endregion
+    /// <summary>
+    /// sets Trigger with the name of cond param; 
+    /// </summary>
+    /// <param name="cond"></param>
+    public void FightPower(string cond)
+    {
+        animator.SetTrigger(cond);
+    }
+    public void SpecialAtkFx()
+    {
+        SpecialFX.SetTrigger("Kamehame");
+    }
+    public void Grounded(bool cond)
+    {
+        animator.SetBool("IsGrounded", cond);
+    }
+
+    public enum KiCharge { charging, stop, full }
+    public void AuraCharge(bool cond)
+    {
+        AuraFX.SetBool("Charge", cond);
+    }
+    public void KICharge(KiCharge cond)
+    {
+        animator.SetInteger("KICharge", (int)cond);
+    }
+    #region AnimationEvents
+    public void HoldPosEve(float time)
+    {
+        CM.HoldPosition(animator, time);
+    }
+    public void MoveTowardsTarget()
+    {
+        StartCoroutine(MoveTowardsTargetCore());
+
+    }
+    IEnumerator MoveTowardsTargetCore()
+    {
+        if (!CM.ForceActive)
+        {
+            CM.ForceActive = true;
+            float timecount = 0.2f;
+            Vector2 dir = CM.TargetCM.CenterPos - CM.CenterPos;
+
+            dir.y = Mathf.Clamp(dir.y, -100, -0.01f);
+            //if (dir.y < -0.1f && Mathf.Abs(dir.x)> 0.25f )
+            while (timecount > 0 && !CM.Grounded)
+            {
+                Rigidbody.AddForce(dir * 300);
+                timecount -= Time.fixedDeltaTime;
+                yield return new WaitForFixedUpdate();
+            }
+            CM.ForceActive = false;
+        }
+    }
+    public void RecoveraddForce()
+    {
+        CM.AddForce(0, transform.right * -1000, 0.2f);
+    }
+    #endregion
+}

@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: f7f1111ba0a65984095914586c4f55d5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FinalFlash_1
+    21300002: FinalFlash_2
+    21300004: FinalFlash_3
+    21300006: FinalFlash_4
+    21300008: FinalFlash_5
+    21300010: FinalFlash_6
+    21300012: FinalFlash_9
+    21300014: FinalFlash_10
+    21300016: FinalFlash_11
+    21300018: FinalFlash_12
+    21300020: FinalFlash_17
+    21300022: FinalFlash_18
+    21300024: FinalFlash_19
+    21300026: FinalFlash_26
+    21300028: FinalFlash_27
+    21300030: FinalFlash_28
+    21300032: FinalFlash_0
+    21300034: FinalFlash_7
+    21300036: FinalFlash_8
+    21300038: FinalFlash_13
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinalFlash_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 632
+        width: 314
+        height: 192
+      alignment: 9
+      pivot: {x: 0.010669879, y: 0.49191666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b517b0a7e6ed4c880197649117e5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_3
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 680
+        width: 296
+        height: 70
+      alignment: 9
+      pivot: {x: 0.012373229, y: 0.52217144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886b7d306d413664d866c05744014038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_4
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 653
+        width: 335
+        height: 149
+      alignment: 9
+      pivot: {x: -0.004984477, y: 0.46875164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b8b542d781c8498280b8f4e7c4b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_5
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 651
+        width: 316
+        height: 154
+      alignment: 9
+      pivot: {x: 0.0285011, y: 0.4697662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6884870b4220dda4eb0feda72ce31de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 447
+        width: 357
+        height: 145
+      alignment: 9
+      pivot: {x: 0.08699835, y: 0.51070386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b8692e5049ee741881601020b56143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_10
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 474
+        width: 316
+        height: 92
+      alignment: 9
+      pivot: {x: 0.018678496, y: 0.5168696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dde5298f5def84897f3f044b0ba93d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_11
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 495
+        width: 281
+        height: 38
+      alignment: 9
+      pivot: {x: 0.030528873, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a392d36d3b6b14da1b974113495594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_12
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 449
+        width: 337
+        height: 142
+      alignment: 9
+      pivot: {x: 0.0210392, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2687d84f8d1996f4689b8ab7122d5795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 266
+        width: 317
+        height: 83
+      alignment: 9
+      pivot: {x: 0.11322002, y: 0.462602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc81782434258874da38d7e3872be66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_18
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 239
+        width: 325
+        height: 144
+      alignment: 9
+      pivot: {x: 0.01768104, y: 0.4892222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4632a7034d2abc54eb8a23dc2b968c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 235
+        width: 317
+        height: 154
+      alignment: 9
+      pivot: {x: 0.03488477, y: 0.51007795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc980992f21c23648a7c3b21451db7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 334
+        height: 149
+      alignment: 9
+      pivot: {x: 0.0120906485, y: 0.48958388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd05a12a3dd7c419d1ef414c731f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 58
+        width: 318
+        height: 92
+      alignment: 9
+      pivot: {x: 0.016824974, y: 0.4325209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d680c35c2e03bb64aa4c67486b21f946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_28
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 80
+        width: 332
+        height: 38
+      alignment: 9
+      pivot: {x: 0.15406872, y: 0.4183145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10479d5c9ccdb854898678829603ff92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 640
+        width: 376
+        height: 167
+      alignment: 9
+      pivot: {x: 0.10374047, y: 0.49070656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df26ce433562d114b966fd24b732be1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 463
+        width: 341
+        height: 109
+      alignment: 9
+      pivot: {x: 0.094928235, y: 0.44304523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38aefc231dc8b4991c482cc860d418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_8
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 273
+        width: 304
+        height: 68
+      alignment: 9
+      pivot: {x: 0.06604807, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a30ea662e99c734ab3f12cea326138f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalFlash_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 215
+        width: 333
+        height: 200
+      alignment: 9
+      pivot: {x: 0.07587538, y: 0.4689598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca29c844310c43459f510b5da0f2761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 54972d8934399c345b38a1063b7d1ce1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

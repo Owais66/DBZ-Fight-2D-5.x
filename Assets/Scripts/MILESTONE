@@ -1,0 +1,30 @@
+////// 4-11-19 //////
+Player Jump Run Crouch
+Controls for Player movement *
+Block Animation for Crouch and Standing*
+Attack moves
+AutoBlock Code for Blocking when player movesaway from enemy*
+Health and Energy bar*
+
+////////////////////////
+///// 21-03-20
+Instant Transmission{Sound, HitRec*, Only on Block + Power*, Take Mana*}
+EnemyInstant Transmission{Sound, HitRec, Only on Block + Power*, Take Mana*}
+Sound Manager{Commentry}
+Battle Manager{Score  Board*, Pause Game*, OnBattle Over*}
+Slomo when Match Finished*
+Player Celebration Anim When Battle is Over*
+Fix FadeMenu;
+
+Special Attack*
+Ki blast
+Ki Charge Dust Fx
+Ki Charge Camera Shake
+Enemy AI for Special, KiBlast, Instant Trans
+Fix Health Red Fill
+
+Bugs:
+1- If BattleManager.Instance not found; Fix- Just Recompile it BattleManager.cs 
+
+2-{Player Hits Target even when HitBox and HurtBox dont collide and punch HitBox not Working at all}
+    Fix{Check All GameObjects and childrens Tag}
